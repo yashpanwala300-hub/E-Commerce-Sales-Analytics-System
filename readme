@@ -1,0 +1,88 @@
+# 🛒 E-Commerce Sales Analytics System
+
+## 📌 Project Overview
+This project is a complete E-Commerce Sales Analytics Dashboard developed using SQL and Power BI. The project focuses on analyzing sales performance, customer behavior, product profitability, and regional trends to generate actionable business insights.
+
+The dashboard helps businesses monitor KPIs, identify top-performing products, analyze customer segments, and improve decision-making.
+
+---
+
+# 🚀 Tools & Technologies Used
+
+- SQL
+- Power BI
+- Excel / CSV Dataset
+- GitHub
+
+---
+
+# 📊 Dashboard Features
+
+## Executive Overview
+- Total Sales
+- Total Profit
+- Total Orders
+- Profit Margin
+
+## Sales Analysis
+- Monthly Sales Trend
+- State Wise Sales
+- Category Wise Revenue
+- Profit by Month
+
+## Customer Analysis
+- Top Customers
+- Customer Segmentation
+- Payment Mode Analysis
+
+## Product Analysis
+- Top Selling Products
+- Product Profitability
+- Quantity Analysis
+
+---
+
+# 🧠 SQL Concepts Used
+
+- JOINS
+- GROUP BY
+- ORDER BY
+- Aggregate Functions
+- Window Functions
+- CTE (Common Table Expressions)
+- Subqueries
+
+---
+
+# 📈 KPIs
+
+| KPI | Description |
+|---|---|
+| Total Sales | Overall revenue generated |
+| Total Profit | Overall profit earned |
+| Total Orders | Number of orders placed |
+| Profit Margin | Profit percentage from sales |
+
+---
+
+# 📂 Project Structure
+
+```text
+E-Commerce-Sales-Analytics-System
+│
+├── SQL
+│   ├── table_creation.sql
+│   ├── insert_data.sql
+│   ├── analysis_queries.sql
+│   └── advanced_queries.sql
+│
+├── Images
+│   └── dashboard.png
+│
+├── PowerBI
+│   └── ecommerce_dashboard.pbix
+│
+├── Dataset
+│   └── ecommerce_1000_dataset.csv
+│
+└── README.md
