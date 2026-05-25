@@ -1,0 +1,94 @@
+1️ Total Sales
+Question:
+
+Find total sales revenue.
+
+SELECT 
+    SUM(sales_amount) AS total_sales
+FROM sales;
+2️ Total Profit
+SELECT 
+    SUM(profit) AS total_profit
+FROM sales;
+3️ Top Selling Products
+Question:
+
+Find top 5 products by revenue.
+
+SELECT 
+    p.product_name,
+    SUM(s.sales_amount) AS revenue
+FROM sales s
+JOIN products p
+ON s.product_id = p.product_id
+GROUP BY p.product_name
+ORDER BY revenue DESC
+LIMIT 5;
+4️ Monthly Sales Trend
+Question:
+
+Find monthly sales performance.
+
+SELECT 
+    MONTH(o.order_date) AS month_no,
+    SUM(s.sales_amount) AS total_sales
+FROM sales s
+JOIN orders o
+ON s.order_id = o.order_id
+GROUP BY MONTH(o.order_date)
+ORDER BY month_no;
+5️ Category Wise Sales
+SELECT 
+    p.category,
+    SUM(s.sales_amount) AS total_sales
+FROM sales s
+JOIN products p
+ON s.product_id = p.product_id
+GROUP BY p.category
+ORDER BY total_sales DESC;
+6️ Top Customers
+SELECT 
+    c.customer_name,
+    SUM(s.sales_amount) AS total_spending
+FROM customers c
+JOIN orders o
+ON c.customer_id = o.customer_id
+JOIN sales s
+ON o.order_id = s.order_id
+GROUP BY c.customer_name
+ORDER BY total_spending DESC
+LIMIT 10;
+7️ Profit Margin
+Formula:
+
+Profit Margin=
+Sales
+Profit
+	​
+
+×100
+
+SELECT 
+    ROUND(
+        SUM(profit)/SUM(sales_amount)*100,
+        2
+    ) AS profit_margin
+FROM sales;
+8️ Repeat Customers
+SELECT 
+    customer_id,
+    COUNT(order_id) AS total_orders
+FROM orders
+GROUP BY customer_id
+HAVING COUNT(order_id) > 1;
+9️  State Wise Sales
+SELECT 
+    c.state,
+    SUM(s.sales_amount) AS revenue
+FROM customers c
+JOIN orders o
+ON c.customer_id = o.customer_id
+JOIN sales s
+ON o.order_id = s.order_id
+GROUP BY c.state
+ORDER BY revenue DESC;
