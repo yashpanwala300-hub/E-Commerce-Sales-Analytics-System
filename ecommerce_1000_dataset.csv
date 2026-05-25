@@ -1,0 +1,1001 @@
+order_id,customer_name,city,state,product_name,category,quantity,price,total_price,payment_method,order_status,order_date
+1,Alisha Sengupta,Allahabad,Sikkim,Product_3,Sports,1,2403.03,2403.03,UPI,Cancelled,2025-12-22
+2,Sumer Kohli,Raiganj,Telangana,Product_66,Fashion,2,937.74,1875.48,UPI,Delivered,2025-06-22
+3,Divyansh Wali,Berhampore,Madhya Pradesh,Product_64,Electronics,4,3707.35,14829.4,Credit Card,Cancelled,2026-02-10
+4,Ryan Deol,Salem,Telangana,Product_40,Books,1,2574.04,2574.04,Cash,Shipped,2026-02-26
+5,Rania Dutt,Ramagundam,Himachal Pradesh,Product_65,Electronics,3,544.96,1634.88,UPI,Shipped,2025-11-03
+6,Divyansh Reddy,Berhampur,Andhra Pradesh,Product_43,Home,4,3881.32,15525.28,Net Banking,Cancelled,2025-12-18
+7,Hiran Barad,Udupi,West Bengal,Product_26,Sports,3,4012.09,12036.27,Credit Card,Delivered,2026-03-16
+8,Tushar Sheth,Kharagpur,Karnataka,Product_89,Books,1,1762.4,1762.4,Cash,Cancelled,2025-09-10
+9,Krish Sarma,Tadipatri,Sikkim,Product_35,Books,5,851.9,4259.5,Cash,Pending,2026-03-15
+10,Zeeshan Kant,Etawah,Kerala,Product_38,Fashion,5,2584.03,12920.15,UPI,Delivered,2025-05-23
+11,Anay Krish,Darbhanga,Arunachal Pradesh,Product_93,Electronics,3,807.16,2421.48,UPI,Shipped,2025-11-11
+12,Lakshay Keer,Karimnagar,Mizoram,Product_93,Home,2,4760.23,9520.46,Credit Card,Delivered,2026-05-14
+13,Ivan Biswas,Bangalore,Punjab,Product_82,Books,1,4566.7,4566.7,Cash,Cancelled,2025-08-01
+14,Rati Krish,Tinsukia,Chhattisgarh,Product_17,Fashion,5,167.52,837.6,UPI,Pending,2025-06-03
+15,Pihu Ram,Malda,Kerala,Product_3,Fashion,4,2184.52,8738.08,UPI,Delivered,2026-02-08
+16,Miraan Randhawa,Patna,Telangana,Product_93,Sports,1,810.98,810.98,UPI,Cancelled,2026-02-17
+17,Vanya Mahal,Tinsukia,Meghalaya,Product_23,Fashion,1,595.18,595.18,Cash,Pending,2026-01-30
+18,Manikya Kala,Muzaffarpur,Madhya Pradesh,Product_37,Electronics,5,678.86,3394.3,Cash,Shipped,2025-11-13
+19,Diya Gokhale,Machilipatnam,Haryana,Product_65,Books,2,4868.98,9737.96,UPI,Cancelled,2025-10-20
+20,Dharmajan Hans,Chittoor,Gujarat,Product_2,Electronics,3,4655.15,13965.45,UPI,Pending,2026-04-19
+21,Devansh Khalsa,Silchar,Maharashtra,Product_12,Books,1,371.09,371.09,UPI,Shipped,2026-04-26
+22,Shray Kohli,Siliguri,Kerala,Product_86,Home,2,358.15,716.3,Cash,Pending,2026-04-10
+23,Samar Sankaran,Thanjavur,Odisha,Product_69,Fashion,1,944.03,944.03,UPI,Pending,2026-05-06
+24,Anya Grover,Tezpur,Bihar,Product_63,Electronics,5,4614.35,23071.75,Cash,Pending,2026-05-12
+25,Miraya Cheema,Gwalior,Uttarakhand,Product_85,Books,3,4878.73,14636.19,Cash,Delivered,2025-11-11
+26,Jivin Bains,Proddatur,Punjab,Product_47,Fashion,2,4135.64,8271.28,Net Banking,Pending,2025-08-21
+27,Anaya Bail,Sirsa,Karnataka,Product_13,Electronics,5,4717.0,23585.0,UPI,Cancelled,2025-12-22
+28,Anaya Keer,Gopalpur,Chhattisgarh,Product_5,Home,5,1136.29,5681.45,UPI,Pending,2026-01-30
+29,Gokul Rajagopalan,Malegaon,Andhra Pradesh,Product_54,Books,4,198.49,793.96,Credit Card,Pending,2025-12-24
+30,Farhan Madan,Sasaram,Manipur,Product_100,Home,5,1977.62,9888.1,Cash,Pending,2026-01-02
+31,Nirvaan Ramaswamy,Secunderabad,Himachal Pradesh,Product_14,Books,3,3341.12,10023.36,Net Banking,Pending,2025-08-13
+32,Diya Warrior,Phusro,Telangana,Product_12,Books,4,3676.39,14705.56,Net Banking,Delivered,2025-08-07
+33,Vidur Roy,Akola,Himachal Pradesh,Product_74,Sports,3,3074.82,9224.46,Cash,Delivered,2025-05-25
+34,Arhaan Raman,Delhi,Nagaland,Product_12,Electronics,5,397.11,1985.55,Cash,Shipped,2025-11-18
+35,Samiha Kadakia,Nanded,Goa,Product_27,Fashion,5,2030.13,10150.65,Cash,Delivered,2025-10-05
+36,Purab Kumer,Salem,Assam,Product_22,Fashion,4,3100.55,12402.2,UPI,Delivered,2026-03-03
+37,Kanav Garg,Satna,Himachal Pradesh,Product_69,Books,5,2208.05,11040.25,Credit Card,Cancelled,2026-04-18
+38,Amira Dara,Korba,Kerala,Product_41,Fashion,5,3524.82,17624.1,Cash,Pending,2025-06-03
+39,Drishya Kashyap,Rajpur Sonarpur,West Bengal,Product_36,Home,3,3833.78,11501.34,UPI,Pending,2025-06-29
+40,Rohan Srinivas,Khammam,Manipur,Product_12,Sports,5,1439.62,7198.1,UPI,Cancelled,2026-03-21
+41,Vaibhav Gill,Ahmednagar,Andhra Pradesh,Product_80,Fashion,5,3918.16,19590.8,Cash,Delivered,2025-05-30
+42,Ahana  Dalal,Nangloi Jat,Chhattisgarh,Product_83,Electronics,4,3692.93,14771.72,Cash,Shipped,2026-04-17
+43,Madhup Bhagat,Kirari Suleman Nagar,Goa,Product_99,Books,4,2335.75,9343.0,Net Banking,Cancelled,2025-11-17
+44,Ishaan Sangha,Nashik,West Bengal,Product_55,Books,2,513.81,1027.62,UPI,Shipped,2025-11-08
+45,Yashvi Taneja,Ujjain,Andhra Pradesh,Product_30,Sports,5,3719.93,18599.65,Net Banking,Shipped,2025-11-14
+46,Kaira Brahmbhatt,Jaunpur,Maharashtra,Product_5,Sports,1,1198.16,1198.16,Net Banking,Delivered,2025-12-14
+47,Shlok Sur,Medininagar,Goa,Product_19,Electronics,1,2411.42,2411.42,UPI,Delivered,2026-02-07
+48,Adira Solanki,Hyderabad,West Bengal,Product_12,Fashion,1,695.2,695.2,Net Banking,Shipped,2025-08-17
+49,Aarush Gala,Madanapalle,Jharkhand,Product_17,Home,4,1124.07,4496.28,UPI,Delivered,2025-07-05
+50,Aradhya Raj,Sasaram,Madhya Pradesh,Product_61,Sports,5,3470.63,17353.15,UPI,Shipped,2026-04-27
+51,Jayant Mahal,Indore,Maharashtra,Product_22,Electronics,3,1525.08,4575.24,Net Banking,Cancelled,2025-12-04
+52,Rasha Setty,Mehsana,Goa,Product_80,Electronics,1,3567.7,3567.7,Credit Card,Delivered,2025-09-16
+53,Ryan Shetty,Mangalore,Karnataka,Product_37,Home,1,1574.82,1574.82,Credit Card,Cancelled,2026-04-12
+54,Stuvan Gill,Nellore,Jharkhand,Product_95,Electronics,1,706.88,706.88,UPI,Shipped,2025-07-23
+55,Badal Raval,Ahmednagar,West Bengal,Product_37,Electronics,5,1490.4,7452.0,Credit Card,Cancelled,2026-01-20
+56,Adira Tailor,Bhavnagar,Nagaland,Product_39,Electronics,1,678.12,678.12,Credit Card,Cancelled,2026-01-20
+57,Romil Deo,Sambhal,Bihar,Product_97,Books,1,964.56,964.56,UPI,Cancelled,2025-08-24
+58,Taimur Comar,Satara,Telangana,Product_85,Home,3,4487.33,13461.99,Cash,Cancelled,2026-05-08
+59,Nirvaan Babu,Sambalpur,Manipur,Product_32,Home,1,2193.85,2193.85,Net Banking,Pending,2026-01-11
+60,Amira Sinha,Bijapur,Karnataka,Product_15,Home,3,1598.09,4794.27,Net Banking,Delivered,2026-03-20
+61,Mannat Rau,Pune,Andhra Pradesh,Product_33,Home,2,698.25,1396.5,UPI,Pending,2026-05-02
+62,Mishti Kota,Nangloi Jat,Uttarakhand,Product_81,Books,2,2787.84,5575.68,Credit Card,Pending,2026-05-05
+63,Keya Upadhyay,Unnao,Telangana,Product_46,Electronics,1,2987.88,2987.88,UPI,Pending,2025-12-02
+64,Riaan De,Jamshedpur,Goa,Product_62,Sports,2,2949.11,5898.22,Credit Card,Cancelled,2026-03-21
+65,Piya Vig,Kishanganj,Chhattisgarh,Product_94,Books,4,2361.32,9445.28,Cash,Shipped,2025-10-08
+66,Onkar Sura,Alappuzha,Nagaland,Product_14,Sports,4,1570.67,6282.68,Cash,Shipped,2026-05-15
+67,Rasha Grover,Siwan,Manipur,Product_96,Sports,3,2730.31,8190.93,Net Banking,Pending,2025-11-29
+68,Madhav Bawa,Kottayam,Uttar Pradesh,Product_41,Books,5,467.3,2336.5,Credit Card,Cancelled,2025-06-17
+69,Vaibhav Anne,Kota,Andhra Pradesh,Product_84,Fashion,5,4481.91,22409.55,Credit Card,Pending,2026-05-10
+70,Saksham Saraf,Jammu,Odisha,Product_68,Fashion,1,1792.25,1792.25,Credit Card,Cancelled,2026-03-08
+71,Shlok Thakkar,Kottayam,Manipur,Product_100,Home,2,640.88,1281.76,Net Banking,Shipped,2025-06-25
+72,Jivin Kale,Coimbatore,Mizoram,Product_89,Sports,3,3641.17,10923.51,Net Banking,Delivered,2026-04-29
+73,Gokul Cheema,Noida,Nagaland,Product_90,Home,3,2143.65,6430.95,UPI,Cancelled,2025-12-16
+74,Lakshay Raj,Jodhpur,Manipur,Product_46,Sports,1,2597.64,2597.64,Cash,Shipped,2025-08-03
+75,Romil Hayer,Saharanpur,Chhattisgarh,Product_59,Books,4,1149.49,4597.96,Net Banking,Cancelled,2025-05-22
+76,Bhavin Chaudhari,Srinagar,Goa,Product_31,Sports,1,736.04,736.04,Net Banking,Pending,2026-01-09
+77,Kiara Virk,Raiganj,Karnataka,Product_76,Books,5,3606.16,18030.8,Net Banking,Pending,2025-06-02
+78,Gatik Yohannan,Bidar,Rajasthan,Product_58,Sports,4,2673.73,10694.92,Cash,Delivered,2025-11-30
+79,Advika Dash,Rajahmundry,Haryana,Product_53,Books,3,4309.09,12927.27,Credit Card,Delivered,2026-02-22
+80,Mehul Madan,Udupi,Odisha,Product_92,Electronics,4,3590.79,14363.16,UPI,Pending,2025-07-02
+81,Nishith Chaudry,Bhubaneswar,Himachal Pradesh,Product_49,Electronics,5,4578.45,22892.25,UPI,Delivered,2025-09-14
+82,Tara Mangal,Solapur,Rajasthan,Product_42,Fashion,2,4381.87,8763.74,Cash,Shipped,2025-09-11
+83,Jhanvi Krishnan,Kalyan-Dombivli,Sikkim,Product_98,Fashion,5,2136.83,10684.15,UPI,Cancelled,2025-08-25
+84,Nirvi Warrior,Ambarnath,Odisha,Product_34,Books,2,4458.86,8917.72,Credit Card,Delivered,2025-11-27
+85,Jivin Kara,Vijayanagaram,Uttarakhand,Product_58,Fashion,3,1937.83,5813.49,UPI,Pending,2025-06-02
+86,Renee Rajagopalan,Chittoor,Karnataka,Product_93,Sports,1,100.05,100.05,Cash,Delivered,2025-07-15
+87,Jivika Banerjee,Rajahmundry,Meghalaya,Product_85,Home,1,4240.87,4240.87,Net Banking,Pending,2025-06-03
+88,Saksham Shanker,Kurnool,Maharashtra,Product_80,Sports,4,889.47,3557.88,UPI,Pending,2025-10-03
+89,Ojas Keer,Shahjahanpur,West Bengal,Product_28,Electronics,3,3253.39,9760.17,UPI,Shipped,2025-05-22
+90,Anahi Sodhi,Meerut,Arunachal Pradesh,Product_23,Books,3,1705.05,5115.15,Cash,Pending,2025-12-28
+91,Lavanya Wagle,Bhimavaram,Gujarat,Product_93,Electronics,4,550.41,2201.64,Net Banking,Shipped,2026-02-25
+92,Lavanya Kapur,Raichur,Karnataka,Product_55,Electronics,4,395.97,1583.88,Cash,Cancelled,2026-04-01
+93,Ivan Dugar,Patna,Haryana,Product_73,Sports,1,3584.9,3584.9,UPI,Cancelled,2025-11-04
+94,Suhana Bala,Faridabad,Meghalaya,Product_95,Books,4,4944.95,19779.8,Credit Card,Shipped,2026-03-15
+95,Zaina Rajagopalan,Rampur,Chhattisgarh,Product_9,Books,1,3345.78,3345.78,Credit Card,Cancelled,2025-12-25
+96,Suhana Devi,Medininagar,Kerala,Product_24,Electronics,4,449.86,1799.44,Net Banking,Shipped,2026-03-11
+97,Tushar Dayal,Ludhiana,Nagaland,Product_82,Home,2,720.27,1440.54,UPI,Cancelled,2025-06-28
+98,Aarna Srivastava,Anand,Jharkhand,Product_85,Home,3,4907.28,14721.84,Net Banking,Pending,2025-09-08
+99,Tiya Kuruvilla,Unnao,West Bengal,Product_51,Home,4,3700.59,14802.36,UPI,Shipped,2025-10-03
+100,Aarav Bawa,North Dumdum,Meghalaya,Product_67,Books,3,4030.46,12091.38,Credit Card,Delivered,2026-01-26
+101,Gokul Behl,Raebareli,Himachal Pradesh,Product_35,Electronics,3,1659.68,4979.04,Net Banking,Delivered,2026-03-29
+102,Anahi Bhavsar,Hospet,Telangana,Product_9,Fashion,2,1652.68,3305.36,Cash,Shipped,2025-10-15
+103,Anya Bath,Etawah,Gujarat,Product_48,Home,4,2061.72,8246.88,UPI,Cancelled,2025-10-23
+104,Hansh Bhat,Serampore,Odisha,Product_27,Fashion,3,2203.72,6611.16,Credit Card,Delivered,2025-12-28
+105,Saira Ravel,South Dumdum,Bihar,Product_95,Electronics,1,3758.8,3758.8,Net Banking,Cancelled,2025-10-17
+106,Darshit Buch,Tadepalligudem,Assam,Product_64,Home,4,1383.72,5534.88,UPI,Shipped,2025-11-25
+107,Bhavin Jhaveri,Karaikudi,Rajasthan,Product_43,Electronics,3,2048.47,6145.41,Credit Card,Delivered,2025-08-24
+108,Indrajit Borra,Secunderabad,Rajasthan,Product_12,Home,4,2809.1,11236.4,Credit Card,Pending,2025-10-16
+109,Anay Gola,Farrukhabad,Sikkim,Product_25,Home,2,2905.19,5810.38,Net Banking,Delivered,2025-08-12
+110,Riya Mandal,Vellore,Rajasthan,Product_16,Books,1,824.8,824.8,UPI,Pending,2026-02-23
+111,Jiya Khare,Haldia,Arunachal Pradesh,Product_74,Sports,4,4645.25,18581.0,Net Banking,Pending,2026-04-17
+112,Rhea Devan,Haridwar,Sikkim,Product_70,Fashion,2,4302.66,8605.32,Net Banking,Cancelled,2025-08-11
+113,Manjari Gara,Gulbarga,Maharashtra,Product_70,Electronics,1,3794.39,3794.39,Net Banking,Cancelled,2025-06-08
+114,Sumer Swaminathan,Anand,Haryana,Product_33,Books,5,1165.44,5827.2,Credit Card,Shipped,2025-11-18
+115,Aniruddh Magar,Aizawl,Tamil Nadu,Product_37,Books,3,2359.28,7077.84,UPI,Shipped,2026-03-19
+116,Aayush Sabharwal,Chinsurah,Andhra Pradesh,Product_1,Books,2,2622.96,5245.92,Cash,Shipped,2025-08-10
+117,Samarth Bhasin,Mango,Gujarat,Product_86,Home,1,2376.89,2376.89,Credit Card,Delivered,2026-04-18
+118,Dhruv Sundaram,Kollam,Meghalaya,Product_81,Books,5,2471.65,12358.25,Net Banking,Delivered,2026-05-09
+119,Myra Chatterjee,Ahmednagar,Tripura,Product_67,Electronics,1,3186.82,3186.82,Cash,Shipped,2026-03-09
+120,Zoya Chana,Nandyal,Bihar,Product_74,Books,3,1273.9,3821.7,Net Banking,Delivered,2025-11-12
+121,Vidur Raju,Kishanganj,Meghalaya,Product_95,Home,1,570.85,570.85,Cash,Pending,2026-02-15
+122,Manjari Das,Nagaon,West Bengal,Product_6,Fashion,3,2754.75,8264.25,Cash,Cancelled,2026-04-13
+123,Seher Bava,Ranchi,Odisha,Product_83,Fashion,1,2946.5,2946.5,Cash,Cancelled,2025-08-18
+124,Aradhya Sachar,Morbi,Haryana,Product_31,Electronics,5,2504.07,12520.35,UPI,Delivered,2025-07-09
+125,Hunar Bobal,Madanapalle,Rajasthan,Product_81,Books,2,2832.97,5665.94,Cash,Shipped,2025-07-20
+126,Biju Savant,Pallavaram,Bihar,Product_27,Fashion,1,3136.05,3136.05,UPI,Pending,2025-10-27
+127,Fateh Datta,Pali,Assam,Product_100,Books,1,1979.09,1979.09,Net Banking,Shipped,2025-09-08
+128,Saksham Chhabra,Nagercoil,Sikkim,Product_76,Fashion,2,3666.64,7333.28,UPI,Cancelled,2025-08-26
+129,Riya Bobal,Pallavaram,Goa,Product_51,Fashion,1,2842.82,2842.82,Credit Card,Cancelled,2025-09-22
+130,Darshit Brar,Secunderabad,Gujarat,Product_56,Books,3,4304.39,12913.17,Net Banking,Pending,2026-02-11
+131,Shray Taneja,Kalyan-Dombivli,Kerala,Product_47,Books,5,1452.59,7262.95,Net Banking,Pending,2025-11-14
+132,Alisha Sachar,Ramagundam,Andhra Pradesh,Product_80,Electronics,3,4305.06,12915.18,Cash,Cancelled,2026-04-23
+133,Ahana  Sarin,Miryalaguda,Tamil Nadu,Product_24,Sports,3,3238.51,9715.53,UPI,Delivered,2025-06-09
+134,Ira Mammen,Bettiah,Himachal Pradesh,Product_82,Sports,5,1602.4,8012.0,Cash,Cancelled,2025-06-21
+135,Navya Boase,Dhule,Maharashtra,Product_61,Electronics,5,3972.56,19862.8,Credit Card,Pending,2026-04-22
+136,Dishani Bhat,Munger,Haryana,Product_31,Books,2,1740.17,3480.34,UPI,Delivered,2026-01-25
+137,Khushi Subramanian,Amravati,Haryana,Product_22,Electronics,1,2559.91,2559.91,Cash,Delivered,2026-03-16
+138,Neelofar Bhatti,Sambhal,Chhattisgarh,Product_4,Home,5,3651.35,18256.75,Credit Card,Cancelled,2025-06-27
+139,Aarush Chanda,Kharagpur,Uttarakhand,Product_65,Sports,2,1988.92,3977.84,UPI,Pending,2025-07-20
+140,Mamooty Chaudhry,Khora ,West Bengal,Product_63,Home,4,3104.63,12418.52,Cash,Pending,2025-11-05
+141,Tejas Buch,Rajkot,Karnataka,Product_81,Home,5,1875.48,9377.4,Cash,Shipped,2026-04-10
+142,Indrans Bava,Erode,Jharkhand,Product_29,Sports,1,1624.19,1624.19,Cash,Cancelled,2026-02-15
+143,Lagan Mangal,Indore,Odisha,Product_15,Sports,5,1027.1,5135.5,Net Banking,Delivered,2026-03-19
+144,Anvi Sami,Tinsukia,Meghalaya,Product_68,Sports,2,4496.62,8993.24,Net Banking,Delivered,2025-12-04
+145,Yakshit Sekhon,Silchar,Jharkhand,Product_73,Home,2,1198.51,2397.02,UPI,Pending,2026-05-17
+146,Vedika Kulkarni,Thanjavur,Andhra Pradesh,Product_29,Electronics,3,3138.05,9414.15,UPI,Delivered,2026-02-26
+147,Drishya Dhillon,Kakinada,West Bengal,Product_82,Electronics,5,3927.3,19636.5,Net Banking,Cancelled,2025-10-03
+148,Rohan Sibal,Madanapalle,Andhra Pradesh,Product_56,Books,1,4966.53,4966.53,Cash,Pending,2025-10-27
+149,Diya Banerjee,South Dumdum,Madhya Pradesh,Product_66,Home,3,2532.28,7596.84,Cash,Cancelled,2026-02-02
+150,Advik Chandran,Bhimavaram,Chhattisgarh,Product_88,Fashion,3,4509.0,13527.0,UPI,Cancelled,2025-08-31
+151,Kiaan Ganesan,Bardhaman,Andhra Pradesh,Product_75,Electronics,3,3372.22,10116.66,UPI,Pending,2025-12-30
+152,Keya Gera,Pudukkottai,Jharkhand,Product_94,Books,1,4822.48,4822.48,Cash,Delivered,2025-08-09
+153,Abram Kibe,Sikar,West Bengal,Product_22,Fashion,1,1009.55,1009.55,Credit Card,Pending,2025-08-22
+154,Yakshit Jha,Berhampore,Goa,Product_92,Sports,1,4017.13,4017.13,Credit Card,Delivered,2025-07-22
+155,Mehul Deol,Bikaner,Gujarat,Product_63,Fashion,5,4658.01,23290.05,UPI,Cancelled,2025-12-07
+156,Arhaan Bobal,Vadodara,Punjab,Product_32,Electronics,1,1760.19,1760.19,UPI,Cancelled,2025-12-05
+157,Akarsh Chhabra,Chittoor,Tamil Nadu,Product_84,Home,4,885.63,3542.52,Cash,Cancelled,2026-04-23
+158,Madhav Bhatnagar,Kirari Suleman Nagar,Rajasthan,Product_6,Fashion,2,1040.79,2081.58,Cash,Shipped,2026-02-07
+159,Indrajit Lala,Kurnool,Sikkim,Product_1,Books,4,626.06,2504.24,Credit Card,Shipped,2025-11-07
+160,Purab Saraf,Arrah,West Bengal,Product_66,Fashion,3,4201.74,12605.22,Net Banking,Pending,2026-01-06
+161,Mishti Char,Hosur,Telangana,Product_93,Electronics,3,3001.2,9003.6,Credit Card,Cancelled,2026-02-10
+162,Chirag Samra,Madurai,Jharkhand,Product_57,Fashion,2,232.58,465.16,UPI,Shipped,2026-05-18
+163,Kavya Lalla,Chinsurah,Bihar,Product_22,Home,5,3474.75,17373.75,UPI,Pending,2025-08-06
+164,Parinaaz Som,Ongole,Kerala,Product_93,Electronics,2,4109.45,8218.9,Net Banking,Delivered,2026-01-15
+165,Tanya Grover,Bhilwara,Odisha,Product_16,Fashion,3,2309.59,6928.77,Net Banking,Cancelled,2026-01-27
+166,Kashvi Rau,Hajipur,Meghalaya,Product_36,Fashion,5,2429.14,12145.7,Net Banking,Shipped,2026-03-07
+167,Zara Krishnamurthy,Bhalswa Jahangir Pur,Punjab,Product_77,Electronics,5,896.5,4482.5,Net Banking,Pending,2025-12-03
+168,Parinaaz Krish,Bhiwani,Karnataka,Product_40,Fashion,2,439.85,879.7,Cash,Shipped,2025-10-05
+169,Kiara Varma,Secunderabad,Kerala,Product_77,Sports,1,1930.27,1930.27,Credit Card,Shipped,2026-04-28
+170,Prerak Basu,Bhilai,Himachal Pradesh,Product_75,Sports,5,3799.19,18995.95,Credit Card,Shipped,2025-06-25
+171,Urvi De,Anantapuram,Karnataka,Product_69,Books,1,1446.88,1446.88,UPI,Shipped,2025-07-27
+172,Onkar Verma,Phagwara,Bihar,Product_22,Fashion,1,216.25,216.25,Cash,Pending,2026-03-01
+173,Darshit Madan,Mysore,Telangana,Product_64,Books,1,4819.45,4819.45,Cash,Shipped,2025-12-08
+174,Aradhya Lall,Malegaon,West Bengal,Product_29,Books,1,979.34,979.34,UPI,Cancelled,2025-08-04
+175,Nishith Sridhar,Amritsar,Goa,Product_38,Sports,1,2505.77,2505.77,Net Banking,Shipped,2026-05-11
+176,Hiran Badami,Ramagundam,Uttarakhand,Product_49,Books,2,2872.12,5744.24,UPI,Shipped,2025-07-10
+177,Rhea Bala,Patiala,Andhra Pradesh,Product_85,Fashion,5,1371.85,6859.25,Cash,Pending,2026-05-16
+178,Shaan Kakar,Shimla,Meghalaya,Product_35,Books,3,3715.17,11145.51,Credit Card,Pending,2026-02-15
+179,Aarna Gour,Vellore,Chhattisgarh,Product_33,Electronics,3,618.87,1856.61,Cash,Pending,2026-05-05
+180,Eshani Kadakia,Nellore,Tripura,Product_83,Home,5,4833.16,24165.8,Net Banking,Delivered,2025-11-12
+181,Khushi Kamdar,Kalyan-Dombivli,Sikkim,Product_16,Books,2,1941.42,3882.84,UPI,Delivered,2025-09-20
+182,Aarav Sastry,Tenali,Sikkim,Product_91,Sports,3,2967.04,8901.12,Cash,Delivered,2025-11-01
+183,Damini Khosla,Alwar,Chhattisgarh,Product_7,Fashion,2,3483.99,6967.98,Credit Card,Pending,2026-04-01
+184,Vedika Som,Sambhal,Mizoram,Product_48,Sports,3,1582.36,4747.08,Cash,Shipped,2025-10-19
+185,Bhavin Comar,Sultan Pur Majra,Meghalaya,Product_32,Books,4,4572.21,18288.84,Cash,Shipped,2025-07-02
+186,Renee Srinivasan,Anantapur,Assam,Product_17,Books,4,4076.8,16307.2,UPI,Delivered,2026-03-27
+187,Anya Salvi,Jalna,Mizoram,Product_99,Home,3,4828.49,14485.47,UPI,Pending,2026-03-19
+188,Tara Kari,Tadepalligudem,Assam,Product_63,Books,3,3745.87,11237.61,Credit Card,Delivered,2026-04-03
+189,Khushi Ravi,Warangal,Telangana,Product_81,Fashion,2,4782.07,9564.14,UPI,Pending,2025-07-15
+190,Sahil Bal,Shahjahanpur,Madhya Pradesh,Product_5,Electronics,2,4303.08,8606.16,Credit Card,Pending,2025-07-27
+191,Elakshi Chander,Kadapa,Punjab,Product_29,Home,5,880.84,4404.2,UPI,Pending,2025-07-10
+192,Kaira Andra,Muzaffarnagar,Nagaland,Product_5,Electronics,3,2189.36,6568.08,Cash,Shipped,2025-06-13
+193,Samaira Dara,Phagwara,Odisha,Product_20,Books,3,4532.81,13598.43,Cash,Pending,2025-07-08
+194,Kiaan Deol,Phagwara,Odisha,Product_99,Electronics,4,4661.51,18646.04,Credit Card,Cancelled,2025-08-02
+195,Dhanuk Kalita,South Dumdum,Chhattisgarh,Product_67,Books,1,2576.87,2576.87,Net Banking,Shipped,2025-08-19
+196,Amira Bhatia,Sultan Pur Majra,Assam,Product_76,Home,3,579.12,1737.36,UPI,Shipped,2025-10-13
+197,Jiya Saxena,Bijapur,Madhya Pradesh,Product_39,Sports,5,3305.52,16527.6,Credit Card,Pending,2025-11-30
+198,Vihaan Ahuja,Rajkot,Karnataka,Product_4,Sports,3,3911.22,11733.66,Net Banking,Cancelled,2026-05-11
+199,Samaira Kalla,Amravati,Chhattisgarh,Product_97,Books,1,4982.63,4982.63,UPI,Shipped,2025-07-01
+200,Biju Comar,Pondicherry,Arunachal Pradesh,Product_60,Home,1,184.0,184.0,Net Banking,Delivered,2026-04-02
+201,Diya Sawhney,Raebareli,Mizoram,Product_66,Sports,5,1978.44,9892.2,Credit Card,Delivered,2025-09-04
+202,Tiya Wason,Karimnagar,Gujarat,Product_88,Home,1,2520.08,2520.08,Net Banking,Pending,2025-08-12
+203,Anaya Samra,Karnal,Chhattisgarh,Product_80,Fashion,5,4647.59,23237.95,Net Banking,Shipped,2025-06-22
+204,Jivika Batra,Amroha,Haryana,Product_22,Electronics,1,841.96,841.96,Credit Card,Shipped,2025-12-17
+205,Vivaan Bhargava,Guwahati,Tamil Nadu,Product_84,Books,3,2228.66,6685.98,Net Banking,Delivered,2025-08-07
+206,Alia Mani,Akola,Madhya Pradesh,Product_77,Fashion,1,942.1,942.1,Net Banking,Shipped,2026-02-24
+207,Anaya Chopra,Bongaigaon,Telangana,Product_41,Electronics,3,3178.04,9534.12,Net Banking,Cancelled,2025-06-02
+208,Miraya Savant,Salem,Tamil Nadu,Product_81,Books,3,4815.84,14447.52,UPI,Shipped,2025-10-13
+209,Vardaniya Sodhi,Vijayawada,Haryana,Product_31,Fashion,1,2776.17,2776.17,Net Banking,Shipped,2025-08-17
+210,Chirag Handa,Vellore,Uttar Pradesh,Product_95,Fashion,4,4355.35,17421.4,Cash,Pending,2026-02-01
+211,Saira Sarraf,Jodhpur,Tripura,Product_34,Home,5,3194.94,15974.7,Net Banking,Pending,2025-11-26
+212,Uthkarsh Acharya,Udupi,Andhra Pradesh,Product_68,Books,1,2785.28,2785.28,Credit Card,Pending,2025-08-13
+213,Aayush Konda,Ajmer,Meghalaya,Product_83,Home,2,4330.92,8661.84,UPI,Cancelled,2025-11-03
+214,Aaina Walia,Jalgaon,Goa,Product_73,Books,3,2278.95,6836.85,Cash,Pending,2026-05-03
+215,Manikya Deep,Suryapet,Madhya Pradesh,Product_71,Books,4,2142.74,8570.96,Credit Card,Delivered,2025-07-13
+216,Bhavin Lal,Aurangabad,Uttarakhand,Product_91,Fashion,5,442.68,2213.4,Credit Card,Delivered,2025-05-22
+217,Uthkarsh Bir,Firozabad,Assam,Product_9,Electronics,4,2088.98,8355.92,UPI,Shipped,2026-01-10
+218,Zain Johal,Motihari,Meghalaya,Product_51,Electronics,1,2466.23,2466.23,UPI,Cancelled,2025-05-26
+219,Ivana Jha,Tadipatri,Nagaland,Product_10,Sports,4,4484.47,17937.88,UPI,Delivered,2025-09-16
+220,Rasha Kala,Rohtak,Himachal Pradesh,Product_71,Fashion,3,2678.25,8034.75,Cash,Cancelled,2025-11-27
+221,Yasmin Venkatesh,Bhopal,Tamil Nadu,Product_4,Fashion,1,2052.63,2052.63,Net Banking,Delivered,2025-07-09
+222,Tara Sunder,Ambala,Sikkim,Product_85,Sports,5,2793.35,13966.75,UPI,Cancelled,2025-06-15
+223,Anahita Gupta,Bulandshahr,Rajasthan,Product_43,Electronics,5,1424.59,7122.95,Net Banking,Pending,2026-01-16
+224,Jhanvi Chowdhury,Tenali,Rajasthan,Product_50,Books,3,4566.67,13700.01,Net Banking,Pending,2025-11-04
+225,Kiara Ganesh,Raichur,Telangana,Product_38,Books,3,726.35,2179.05,Cash,Pending,2025-08-09
+226,Madhav Rout,Durg,Uttarakhand,Product_41,Electronics,5,1939.95,9699.75,Cash,Pending,2026-02-21
+227,Suhana Shetty,Vasai-Virar,Andhra Pradesh,Product_22,Sports,1,2067.02,2067.02,UPI,Shipped,2026-03-07
+228,Divyansh Badal,Thoothukudi,Mizoram,Product_39,Sports,3,2321.32,6963.96,Cash,Delivered,2025-08-17
+229,Bhavin Sodhi,Ambattur,Tripura,Product_17,Sports,3,3200.87,9602.61,Net Banking,Delivered,2026-01-10
+230,Arhaan Krishnamurthy,Korba,Odisha,Product_89,Electronics,1,315.02,315.02,UPI,Shipped,2026-05-15
+231,Pari Yogi,Darbhanga,Uttarakhand,Product_100,Electronics,1,432.17,432.17,UPI,Delivered,2025-09-23
+232,Nirvaan Lala,Raebareli,Tamil Nadu,Product_32,Sports,3,1478.69,4436.07,Net Banking,Pending,2025-10-17
+233,Dhanuk Chandra,Ludhiana,Manipur,Product_76,Fashion,2,3746.31,7492.62,Credit Card,Shipped,2025-11-27
+234,Indranil Yohannan,Pudukkottai,Uttar Pradesh,Product_21,Electronics,2,3981.43,7962.86,Cash,Delivered,2025-08-21
+235,Samar Bakshi,Gorakhpur,Himachal Pradesh,Product_49,Home,2,1635.93,3271.86,Credit Card,Cancelled,2025-08-02
+236,Biju Issac,Guntur,Assam,Product_27,Fashion,1,711.25,711.25,Credit Card,Shipped,2025-08-04
+237,Kavya Chokshi,Rewa,Madhya Pradesh,Product_96,Electronics,3,2191.47,6574.41,Credit Card,Shipped,2026-02-14
+238,Aniruddh Sabharwal,North Dumdum,Gujarat,Product_52,Books,3,2455.42,7366.26,Net Banking,Cancelled,2025-10-25
+239,Siya Sankaran,Bidar,Andhra Pradesh,Product_61,Books,3,3427.25,10281.75,UPI,Cancelled,2026-04-18
+240,Amani Gill,Junagadh,Manipur,Product_95,Home,3,513.64,1540.92,UPI,Cancelled,2025-09-15
+241,Pihu Johal,Gandhidham,Bihar,Product_76,Electronics,5,4903.69,24518.45,Net Banking,Shipped,2025-07-29
+242,Lakshit Bal,Bijapur,Jharkhand,Product_9,Electronics,2,1300.18,2600.36,UPI,Delivered,2025-11-16
+243,Aniruddh Deshpande,Deoghar,Maharashtra,Product_30,Electronics,5,1971.03,9855.15,Net Banking,Delivered,2025-06-29
+244,Indrans Bhakta,Guntur,Odisha,Product_56,Books,5,4177.64,20888.2,UPI,Pending,2025-10-27
+245,Ivana Ramaswamy,Ghaziabad,Nagaland,Product_91,Books,5,4555.81,22779.05,UPI,Delivered,2026-04-16
+246,Shayak Johal,Dindigul,Sikkim,Product_46,Home,1,1404.03,1404.03,Cash,Pending,2025-11-15
+247,Oorja Bedi,Mangalore,Bihar,Product_6,Fashion,5,2348.84,11744.2,Credit Card,Delivered,2025-11-30
+248,Dharmajan Thakur,Ramagundam,Jharkhand,Product_95,Fashion,5,1350.32,6751.6,Credit Card,Pending,2025-10-09
+249,Purab Deshpande,Akola,Karnataka,Product_11,Sports,5,134.08,670.4,UPI,Shipped,2025-10-20
+250,Uthkarsh Suri,Sonipat,Meghalaya,Product_87,Home,2,1959.4,3918.8,Cash,Delivered,2026-01-15
+251,Kiaan Varughese,Begusarai,Odisha,Product_92,Sports,4,112.78,451.12,Credit Card,Pending,2025-11-07
+252,Chirag Mane,Meerut,Gujarat,Product_69,Sports,4,1534.24,6136.96,UPI,Cancelled,2025-07-02
+253,Lavanya Dewan,South Dumdum,Mizoram,Product_37,Home,4,4379.73,17518.92,Credit Card,Shipped,2025-11-05
+254,Miraya Bahri,Ramgarh,Assam,Product_68,Sports,4,1759.76,7039.04,UPI,Cancelled,2025-12-25
+255,Shanaya Dar,Nagaon,Manipur,Product_33,Electronics,4,4197.65,16790.6,Cash,Shipped,2025-09-12
+256,Urvi Kade,Aurangabad,Manipur,Product_96,Sports,4,336.91,1347.64,Cash,Shipped,2025-12-03
+257,Khushi Kala,Suryapet,West Bengal,Product_14,Electronics,3,4260.2,12780.6,Net Banking,Pending,2025-07-18
+258,Tara Chander,Imphal,Telangana,Product_51,Books,5,2028.92,10144.6,Credit Card,Shipped,2025-09-20
+259,Nakul Dyal,Chandrapur,Andhra Pradesh,Product_5,Electronics,2,4780.68,9561.36,Net Banking,Pending,2025-12-27
+260,Yuvaan Swamy,Hazaribagh,Rajasthan,Product_62,Fashion,5,2396.08,11980.4,Credit Card,Delivered,2025-08-08
+261,Taimur Wason,Aizawl,Tripura,Product_8,Fashion,1,2242.71,2242.71,Credit Card,Cancelled,2026-01-10
+262,Anvi Ramachandran,Raebareli,Sikkim,Product_72,Sports,2,2861.19,5722.38,Credit Card,Cancelled,2025-05-21
+263,Anay Kala,Tirupati,Sikkim,Product_92,Electronics,5,4528.74,22643.7,Net Banking,Pending,2025-12-25
+264,Piya Halder,Rajpur Sonarpur,Andhra Pradesh,Product_62,Sports,4,1774.97,7099.88,Net Banking,Pending,2025-05-19
+265,Siya Sekhon,Ambala,Meghalaya,Product_68,Sports,5,1222.81,6114.05,Net Banking,Cancelled,2025-09-19
+266,Diya Raval,Ranchi,Arunachal Pradesh,Product_23,Books,5,3654.87,18274.35,UPI,Delivered,2026-01-12
+267,Shray Lanka,Aligarh,Andhra Pradesh,Product_8,Fashion,3,3313.64,9940.92,Credit Card,Cancelled,2026-04-28
+268,Saira Gara,Munger,Madhya Pradesh,Product_67,Books,2,4580.46,9160.92,Net Banking,Delivered,2026-05-07
+269,Yakshit Ram,Rewa,Chhattisgarh,Product_92,Home,4,1771.43,7085.72,Credit Card,Pending,2025-11-16
+270,Nayantara Dyal,Silchar,Chhattisgarh,Product_38,Electronics,5,3960.13,19800.65,UPI,Pending,2026-03-01
+271,Eva Bhandari,Bareilly,Rajasthan,Product_54,Sports,2,3188.23,6376.46,Net Banking,Shipped,2025-12-29
+272,Keya Bora,Bihar Sharif,Mizoram,Product_56,Fashion,4,2696.89,10787.56,Credit Card,Pending,2025-10-08
+273,Nakul Chada,Tirupati,Nagaland,Product_31,Books,2,527.7,1055.4,Credit Card,Delivered,2025-07-18
+274,Aarna Varughese,Sri Ganganagar,West Bengal,Product_3,Books,1,4873.51,4873.51,UPI,Shipped,2026-02-13
+275,Drishya Sekhon,Bhubaneswar,Rajasthan,Product_6,Fashion,1,2099.27,2099.27,Net Banking,Shipped,2026-03-14
+276,Vihaan Singhal,Shivpuri,Sikkim,Product_24,Electronics,5,353.18,1765.9,Cash,Pending,2025-09-06
+277,Bhavin Sura,Amritsar,Kerala,Product_18,Sports,2,2372.04,4744.08,Net Banking,Pending,2025-09-14
+278,Zeeshan Sandal,Karnal,Kerala,Product_76,Sports,4,4001.48,16005.92,Credit Card,Shipped,2026-02-19
+279,Ehsaan Rout,Siwan,Himachal Pradesh,Product_19,Books,5,755.18,3775.9,Net Banking,Pending,2026-03-25
+280,Vivaan Saran,Miryalaguda,Uttarakhand,Product_54,Electronics,1,4734.87,4734.87,Net Banking,Shipped,2025-08-15
+281,Siya Jaggi,Kota,Gujarat,Product_25,Sports,3,1995.49,5986.47,Net Banking,Pending,2025-12-31
+282,Ojas Bandi,Bahraich,Tripura,Product_77,Electronics,4,1233.57,4934.28,Cash,Delivered,2026-04-03
+283,Ryan Biswas,Bikaner,Sikkim,Product_94,Books,1,4139.8,4139.8,UPI,Pending,2025-11-10
+284,Hunar Saran,Ulhasnagar,Tripura,Product_38,Home,5,2634.61,13173.05,Net Banking,Pending,2025-05-27
+285,Ishita Rajagopal,Purnia,Assam,Product_4,Electronics,4,2574.64,10298.56,UPI,Shipped,2025-08-26
+286,Tushar Soman,Kolhapur,Manipur,Product_56,Electronics,3,1601.59,4804.77,Cash,Delivered,2025-12-15
+287,Kiaan Reddy,Varanasi,Kerala,Product_39,Sports,5,1902.29,9511.45,UPI,Cancelled,2026-02-12
+288,Ranbir Halder,Hapur,Arunachal Pradesh,Product_41,Fashion,5,3984.78,19923.9,Cash,Cancelled,2025-08-13
+289,Aaina Raval,Vijayawada,Uttar Pradesh,Product_42,Fashion,3,3684.75,11054.25,Cash,Pending,2025-06-04
+290,Indrans Sampath,Salem,Kerala,Product_39,Fashion,3,855.89,2567.67,Cash,Shipped,2026-03-06
+291,Mishti Solanki,Tinsukia,Himachal Pradesh,Product_56,Fashion,4,704.46,2817.84,Credit Card,Cancelled,2026-03-24
+292,Fateh Chand,Mumbai,Manipur,Product_66,Home,1,1217.5,1217.5,Cash,Delivered,2026-03-13
+293,Samarth Koshy,Rohtak,Uttarakhand,Product_94,Home,5,898.18,4490.9,Cash,Pending,2025-12-12
+294,Vivaan Mannan,Anantapuram,Karnataka,Product_74,Sports,3,2406.9,7220.7,Credit Card,Cancelled,2025-12-31
+295,Ishaan Bali,Bhubaneswar,West Bengal,Product_37,Home,1,4740.16,4740.16,Credit Card,Shipped,2026-04-08
+296,Zaina Dada,Madurai,Telangana,Product_51,Books,2,4269.28,8538.56,UPI,Shipped,2025-09-11
+297,Anay Hari,Mehsana,Bihar,Product_47,Books,4,4478.84,17915.36,UPI,Cancelled,2026-04-06
+298,Rhea Ramanathan,Tadepalligudem,Gujarat,Product_17,Electronics,5,406.64,2033.2,UPI,Delivered,2026-04-03
+299,Divij Ramaswamy,Nadiad,Uttarakhand,Product_41,Fashion,4,4339.43,17357.72,Net Banking,Delivered,2026-04-19
+300,Prisha Sinha,Barasat,Uttar Pradesh,Product_48,Electronics,5,4482.33,22411.65,Credit Card,Pending,2025-12-15
+301,Vihaan Batra,Ballia,Odisha,Product_1,Fashion,1,1711.55,1711.55,UPI,Delivered,2025-08-24
+302,Onkar Dhawan,Berhampur,West Bengal,Product_43,Fashion,3,2782.99,8348.97,UPI,Delivered,2026-01-14
+303,Rania Dhar,Guntur,Uttarakhand,Product_1,Fashion,2,4047.42,8094.84,Net Banking,Cancelled,2025-06-28
+304,Baiju Gulati,Kanpur,Madhya Pradesh,Product_75,Sports,3,3091.76,9275.28,Credit Card,Cancelled,2025-06-02
+305,Tanya Badami,Thane,Bihar,Product_15,Books,1,1143.21,1143.21,Cash,Cancelled,2025-08-01
+306,Hansh Saxena,Kakinada,Meghalaya,Product_62,Sports,4,3038.29,12153.16,Cash,Delivered,2025-06-09
+307,Eshani Loke,Bhatpara,Chhattisgarh,Product_12,Sports,3,3268.07,9804.21,Credit Card,Delivered,2025-11-10
+308,Faiyaz Vyas,Gudivada,Arunachal Pradesh,Product_51,Books,2,627.85,1255.7,Cash,Delivered,2025-10-19
+309,Damini Suresh,Nangloi Jat,Goa,Product_61,Electronics,2,4732.86,9465.72,Net Banking,Cancelled,2026-02-09
+310,Tiya Kata,Bathinda,Jharkhand,Product_36,Books,3,1973.06,5919.18,UPI,Shipped,2025-09-16
+311,Neelofar Sahni,Madanapalle,Mizoram,Product_78,Books,5,3051.77,15258.85,Cash,Delivered,2026-01-01
+312,Romil Hora,Warangal,Rajasthan,Product_6,Books,3,2752.77,8258.31,Net Banking,Delivered,2025-08-15
+313,Advik Ramesh,Aligarh,Tamil Nadu,Product_50,Electronics,5,1321.43,6607.15,Cash,Pending,2026-03-13
+314,Tanya Tak,Ichalkaranji,Jharkhand,Product_37,Fashion,3,1169.37,3508.11,Net Banking,Shipped,2026-05-18
+315,Dishani Dhingra,Saharanpur,Odisha,Product_74,Home,4,618.31,2473.24,Net Banking,Shipped,2026-02-20
+316,Advik Ravi,Jamalpur,Andhra Pradesh,Product_42,Home,2,1381.15,2762.3,UPI,Cancelled,2025-07-29
+317,Zaina Batra,Jamalpur,Nagaland,Product_53,Electronics,1,4677.04,4677.04,Credit Card,Cancelled,2025-10-06
+318,Veer Kata,Bhiwandi,Manipur,Product_81,Fashion,3,4090.17,12270.51,Cash,Cancelled,2026-02-25
+319,Nayantara Banik,Ozhukarai,Assam,Product_91,Electronics,2,720.45,1440.9,Net Banking,Delivered,2026-02-07
+320,Elakshi Walia,Thoothukudi,Arunachal Pradesh,Product_26,Home,4,1237.77,4951.08,Credit Card,Cancelled,2026-01-03
+321,Ehsaan Savant,Aurangabad,Tamil Nadu,Product_83,Books,4,3608.12,14432.48,UPI,Cancelled,2026-01-18
+322,Armaan Kota,Phusro,Nagaland,Product_99,Home,4,3739.54,14958.16,Cash,Cancelled,2026-04-11
+323,Arhaan Kothari,Tiruppur,Himachal Pradesh,Product_80,Electronics,4,530.6,2122.4,Credit Card,Cancelled,2026-02-15
+324,Divyansh Mander,Munger,Goa,Product_28,Electronics,3,1197.93,3593.79,UPI,Pending,2026-02-19
+325,Bhavin Viswanathan,Kollam,Mizoram,Product_89,Fashion,2,869.48,1738.96,Cash,Cancelled,2025-07-06
+326,Tara Kala,Hindupur,Tripura,Product_88,Home,3,4180.68,12542.04,UPI,Cancelled,2025-05-25
+327,Rohan Sankar,Haridwar,Chhattisgarh,Product_1,Fashion,5,4391.71,21958.55,UPI,Shipped,2026-04-06
+328,Shlok Ramakrishnan,Nellore,Nagaland,Product_25,Electronics,4,4170.48,16681.92,UPI,Delivered,2025-06-15
+329,Prisha Amble,Amravati,Assam,Product_57,Home,4,1788.74,7154.96,Cash,Cancelled,2025-10-17
+330,Shanaya Halder,Ambattur,Karnataka,Product_55,Electronics,4,4342.7,17370.8,Credit Card,Delivered,2025-11-09
+331,Priyansh Mann,Katihar,Tamil Nadu,Product_3,Electronics,3,2590.12,7770.36,Cash,Cancelled,2026-03-05
+332,Ahana  Ravel,Hajipur,Punjab,Product_48,Books,4,1041.46,4165.84,Net Banking,Shipped,2025-06-13
+333,Mehul Yadav,Belgaum,Punjab,Product_25,Sports,1,4136.42,4136.42,Cash,Shipped,2025-06-26
+334,Vanya Varma,Fatehpur,Bihar,Product_2,Sports,4,4283.77,17135.08,Net Banking,Shipped,2025-05-20
+335,Anahita Sane,Bhilwara,Telangana,Product_81,Fashion,1,1386.44,1386.44,Net Banking,Shipped,2025-10-09
+336,Rania Garde,Erode,Meghalaya,Product_1,Books,3,3991.54,11974.62,Credit Card,Pending,2025-09-13
+337,Uthkarsh Chakraborty,Nellore,Assam,Product_8,Sports,2,1351.87,2703.74,Net Banking,Shipped,2026-03-11
+338,Lagan Mall,Bhagalpur,Madhya Pradesh,Product_41,Electronics,4,2572.55,10290.2,Cash,Pending,2026-02-15
+339,Divij Johal,Begusarai,Himachal Pradesh,Product_13,Fashion,1,407.62,407.62,Cash,Pending,2025-06-19
+340,Tushar Sodhi,Hazaribagh,Mizoram,Product_47,Fashion,2,2729.35,5458.7,Cash,Delivered,2025-07-28
+341,Emir Borde,Kadapa,Arunachal Pradesh,Product_88,Home,2,4428.75,8857.5,Cash,Delivered,2026-02-18
+342,Bhavin Gara,Jabalpur,Tripura,Product_50,Fashion,4,242.59,970.36,UPI,Shipped,2026-03-18
+343,Shamik Randhawa,Nashik,Uttarakhand,Product_45,Sports,1,3001.56,3001.56,Credit Card,Shipped,2026-03-16
+344,Shalv Shroff,Malda,Goa,Product_66,Fashion,2,945.32,1890.64,UPI,Shipped,2026-01-11
+345,Uthkarsh Issac,Fatehpur,Arunachal Pradesh,Product_72,Electronics,4,624.01,2496.04,UPI,Delivered,2025-12-06
+346,Riya Dayal,Noida,Sikkim,Product_60,Home,1,1917.52,1917.52,UPI,Cancelled,2025-06-29
+347,Vivaan Venkatesh,Surendranagar Dudhrej,Odisha,Product_92,Home,3,3267.14,9801.42,Credit Card,Pending,2026-03-16
+348,Rati Dara,Panchkula,Assam,Product_7,Home,5,1860.72,9303.6,Credit Card,Delivered,2026-05-14
+349,Nehmat Mann,Raipur,Goa,Product_26,Home,2,2230.87,4461.74,Net Banking,Pending,2026-02-19
+350,Piya Kanda,Farrukhabad,Kerala,Product_98,Fashion,4,957.54,3830.16,Net Banking,Cancelled,2025-08-04
+351,Rati Salvi,Allahabad,Nagaland,Product_36,Books,1,3222.74,3222.74,Net Banking,Cancelled,2025-11-25
+352,Emir Devi,Kozhikode,Tamil Nadu,Product_94,Sports,2,3656.26,7312.52,Net Banking,Cancelled,2026-02-06
+353,Azad Hari,Siwan,Uttar Pradesh,Product_29,Books,3,4652.05,13956.15,UPI,Shipped,2025-08-19
+354,Shlok Kashyap,Hapur,Gujarat,Product_58,Electronics,1,1179.77,1179.77,Credit Card,Pending,2025-06-18
+355,Onkar Raju,Thrissur,Gujarat,Product_90,Books,1,4082.03,4082.03,Net Banking,Shipped,2026-01-04
+356,Neysa Thaman,Gorakhpur,Jharkhand,Product_86,Sports,4,1337.63,5350.52,Credit Card,Delivered,2026-04-26
+357,Ojas Arora,Uluberia,Uttar Pradesh,Product_73,Electronics,3,2772.27,8316.81,Net Banking,Pending,2026-01-02
+358,Urvi Bahl,Bokaro,Gujarat,Product_23,Books,3,1314.31,3942.93,Credit Card,Pending,2025-10-30
+359,Seher Chokshi,Anantapur,Jharkhand,Product_97,Electronics,3,3217.48,9652.44,Net Banking,Cancelled,2025-07-02
+360,Riaan Acharya,Udaipur,Manipur,Product_96,Home,2,3180.1,6360.2,Net Banking,Cancelled,2025-12-25
+361,Alisha Sem,Raichur,Manipur,Product_53,Sports,2,581.63,1163.26,UPI,Shipped,2025-08-21
+362,Uthkarsh Sarkar,Burhanpur,Telangana,Product_2,Electronics,4,3623.0,14492.0,Net Banking,Shipped,2025-07-02
+363,Dhanuk Sama,Warangal,Madhya Pradesh,Product_66,Electronics,5,1309.9,6549.5,UPI,Pending,2025-07-12
+364,Emir Dey,Raiganj,Meghalaya,Product_93,Books,4,433.42,1733.68,Cash,Pending,2025-10-13
+365,Adira Lalla,Bihar Sharif,Tripura,Product_9,Home,3,218.85,656.55,Cash,Cancelled,2025-09-08
+366,Pari Sani,Gopalpur,Odisha,Product_65,Sports,1,1973.3,1973.3,Cash,Delivered,2025-10-14
+367,Mamooty Bhattacharyya,Jaipur,Telangana,Product_95,Sports,3,3854.14,11562.42,Net Banking,Pending,2026-02-14
+368,Shanaya Warrior,Bhagalpur,Gujarat,Product_100,Electronics,3,508.98,1526.94,Credit Card,Pending,2026-01-29
+369,Pranay Venkatesh,Bhind,Telangana,Product_87,Fashion,4,2036.83,8147.32,Cash,Delivered,2026-03-21
+370,Aarna Sachdeva,Sambhal,Mizoram,Product_56,Electronics,2,1619.13,3238.26,UPI,Shipped,2025-06-02
+371,Kiara Lall,Serampore,Karnataka,Product_45,Fashion,3,1011.4,3034.2,Cash,Delivered,2026-03-18
+372,Kavya Aggarwal,Khandwa,Meghalaya,Product_32,Electronics,3,1608.94,4826.82,Credit Card,Cancelled,2025-11-10
+373,Zara Rattan,Jalandhar,Uttar Pradesh,Product_26,Electronics,1,3525.1,3525.1,Credit Card,Cancelled,2026-03-21
+374,Pari Chaudry,Meerut,Manipur,Product_60,Home,2,226.26,452.52,Cash,Delivered,2025-11-11
+375,Zaina Dyal,Mahbubnagar,Meghalaya,Product_33,Home,4,3243.58,12974.32,Net Banking,Shipped,2025-05-31
+376,Elakshi Tailor,Delhi,Chhattisgarh,Product_79,Fashion,3,786.33,2358.99,Credit Card,Cancelled,2026-02-28
+377,Nirvaan Barman,Surat,Goa,Product_16,Home,3,4245.76,12737.28,Credit Card,Cancelled,2025-06-17
+378,Pihu Sen,Machilipatnam,Rajasthan,Product_28,Home,3,284.81,854.43,Net Banking,Shipped,2026-05-14
+379,Priyansh Varghese,Thane,Telangana,Product_35,Fashion,4,1192.6,4770.4,UPI,Shipped,2025-08-13
+380,Zaina Balasubramanian,Phagwara,Rajasthan,Product_69,Fashion,2,3974.98,7949.96,Cash,Shipped,2026-01-25
+381,Samarth Golla,Baranagar,Telangana,Product_87,Home,5,4866.38,24331.9,UPI,Cancelled,2026-02-27
+382,Miraya Tara,Shimla,Manipur,Product_69,Home,3,3878.24,11634.72,Net Banking,Pending,2025-10-30
+383,Pihu Chaudry,Bettiah,Telangana,Product_83,Fashion,2,1451.48,2902.96,Credit Card,Delivered,2025-10-02
+384,Suhana Varty,Chittoor,Telangana,Product_77,Fashion,5,2444.13,12220.65,Credit Card,Delivered,2025-08-25
+385,Rati Amble,Tiruchirappalli,Bihar,Product_49,Books,4,2805.73,11222.92,Net Banking,Pending,2025-09-03
+386,Anahita Seshadri,Warangal,Punjab,Product_42,Books,2,4900.55,9801.1,Net Banking,Shipped,2025-07-06
+387,Anika Chatterjee,Ulhasnagar,Himachal Pradesh,Product_47,Books,3,4625.76,13877.28,UPI,Cancelled,2025-11-08
+388,Tara Bajaj,Imphal,Gujarat,Product_8,Home,3,4933.55,14800.65,Cash,Pending,2025-08-16
+389,Prerak Talwar,Akola,Telangana,Product_66,Fashion,5,4905.48,24527.4,Net Banking,Shipped,2026-05-16
+390,Raunak Deep,Farrukhabad,Arunachal Pradesh,Product_18,Books,1,493.58,493.58,UPI,Shipped,2025-10-10
+391,Zoya Tak,Khora ,Telangana,Product_27,Home,5,3584.13,17920.65,Cash,Cancelled,2026-04-17
+392,Keya Sharma,Bhatpara,Tripura,Product_52,Sports,3,3262.51,9787.53,Cash,Pending,2025-07-30
+393,Veer Thakur,Moradabad,Andhra Pradesh,Product_1,Home,4,4656.98,18627.92,Net Banking,Cancelled,2025-10-11
+394,Aradhya Varkey,Saharsa,Chhattisgarh,Product_11,Home,5,657.83,3289.15,Net Banking,Pending,2026-04-06
+395,Taran Ranganathan,Jehanabad,Kerala,Product_37,Electronics,2,722.39,1444.78,Net Banking,Pending,2025-12-16
+396,Misha Jaggi,Hindupur,West Bengal,Product_73,Electronics,1,804.73,804.73,Cash,Shipped,2025-11-20
+397,Lakshay Issac,Narasaraopet,Mizoram,Product_33,Sports,3,114.95,344.85,Credit Card,Shipped,2025-08-18
+398,Akarsh Suri,Machilipatnam,Nagaland,Product_10,Home,4,622.44,2489.76,UPI,Cancelled,2026-03-12
+399,Misha Lad,Ghaziabad,Gujarat,Product_47,Electronics,2,4011.42,8022.84,Credit Card,Pending,2025-12-05
+400,Nitya Banerjee,Coimbatore,Jharkhand,Product_71,Fashion,4,4808.45,19233.8,UPI,Delivered,2026-05-16
+401,Miraya Goel,Rohtak,Andhra Pradesh,Product_45,Books,1,3944.31,3944.31,Credit Card,Cancelled,2025-09-25
+402,Hrishita Upadhyay,Machilipatnam,Tripura,Product_81,Books,1,4385.14,4385.14,UPI,Shipped,2026-01-18
+403,Ayesha Kala,Ghaziabad,Maharashtra,Product_95,Sports,5,848.25,4241.25,UPI,Cancelled,2025-12-29
+404,Tanya Wagle,Maheshtala,Maharashtra,Product_27,Electronics,2,3483.08,6966.16,UPI,Pending,2025-06-08
+405,Heer Khosla,Tiruvottiyur,West Bengal,Product_60,Electronics,3,312.33,936.99,Net Banking,Cancelled,2025-12-11
+406,Shanaya Lall,Kirari Suleman Nagar,Andhra Pradesh,Product_45,Electronics,1,1017.46,1017.46,Credit Card,Shipped,2025-10-04
+407,Ivan Bora,Vadodara,Goa,Product_59,Fashion,4,2403.54,9614.16,Cash,Cancelled,2026-04-12
+408,Kabir Sachdeva,Rohtak,Odisha,Product_96,Fashion,4,563.96,2255.84,UPI,Delivered,2025-10-28
+409,Nakul Mahal,Ratlam,Punjab,Product_54,Books,4,2311.69,9246.76,Cash,Cancelled,2025-10-26
+410,Nitya Bakshi,Ghaziabad,Himachal Pradesh,Product_82,Home,5,1467.59,7337.95,Net Banking,Pending,2026-02-13
+411,Pihu Dixit,Tiruchirappalli,Himachal Pradesh,Product_44,Sports,2,3351.38,6702.76,UPI,Cancelled,2025-08-09
+412,Neelofar Roy,Aurangabad,Himachal Pradesh,Product_14,Fashion,4,2174.55,8698.2,Net Banking,Shipped,2026-04-17
+413,Mehul Sem,Burhanpur,West Bengal,Product_86,Books,4,3176.34,12705.36,Net Banking,Pending,2025-06-04
+414,Gatik Bir,Uluberia,Bihar,Product_29,Electronics,1,4582.24,4582.24,Cash,Shipped,2025-09-11
+415,Bhavin Ratti,Madhyamgram,Odisha,Product_32,Home,2,1234.96,2469.92,Credit Card,Delivered,2025-12-29
+416,Jayan Chaudhari,Thiruvananthapuram,Madhya Pradesh,Product_34,Fashion,2,1517.48,3034.96,UPI,Pending,2026-02-08
+417,Suhana Khanna,Faridabad,Meghalaya,Product_33,Sports,4,2518.12,10072.48,Net Banking,Shipped,2026-05-04
+418,Veer Suresh,Latur,Madhya Pradesh,Product_34,Books,5,2092.97,10464.85,Credit Card,Pending,2026-04-30
+419,Alisha Bir,Medininagar,Andhra Pradesh,Product_35,Sports,5,2938.77,14693.85,Net Banking,Cancelled,2026-01-04
+420,Gokul Sarin,Tinsukia,Karnataka,Product_16,Electronics,1,4119.34,4119.34,Cash,Pending,2025-11-16
+421,Siya Reddy,Morena,Bihar,Product_24,Sports,5,4643.84,23219.2,UPI,Shipped,2025-11-22
+422,Eva Ranganathan,Dhule,Arunachal Pradesh,Product_18,Electronics,4,3558.93,14235.72,Net Banking,Cancelled,2026-04-13
+423,Nakul Kade,Srikakulam,Maharashtra,Product_91,Home,5,1655.88,8279.4,UPI,Cancelled,2025-08-04
+424,Nitara Chaudhary,Raebareli,Arunachal Pradesh,Product_69,Fashion,4,292.02,1168.08,Net Banking,Delivered,2026-02-25
+425,Renee Kala,Rampur,Odisha,Product_23,Fashion,4,1469.2,5876.8,Net Banking,Cancelled,2026-03-11
+426,Divij Kapur,Raichur,Kerala,Product_69,Books,2,1702.79,3405.58,Cash,Cancelled,2026-03-27
+427,Hiran Sunder,Purnia,Meghalaya,Product_53,Sports,1,2632.1,2632.1,Cash,Delivered,2026-01-14
+428,Rania Basak,Barasat,Haryana,Product_73,Books,1,627.32,627.32,Net Banking,Shipped,2025-08-22
+429,Piya Srivastava,Kirari Suleman Nagar,Manipur,Product_90,Fashion,2,2372.12,4744.24,UPI,Pending,2025-08-31
+430,Nishith Lad,Phagwara,Manipur,Product_62,Books,2,1567.19,3134.38,Net Banking,Pending,2025-12-11
+431,Manikya Sheth,Rourkela,Odisha,Product_30,Home,4,2344.55,9378.2,Credit Card,Cancelled,2025-12-09
+432,Aayush Char,Gorakhpur,Manipur,Product_86,Home,3,2355.91,7067.73,UPI,Shipped,2025-09-15
+433,Dharmajan Krishna,Sagar,Telangana,Product_61,Sports,5,4169.88,20849.4,Credit Card,Cancelled,2026-01-11
+434,Anvi Kannan,Fatehpur,Sikkim,Product_31,Home,1,1516.87,1516.87,Credit Card,Delivered,2025-07-11
+435,Lavanya Kunda,Bidhannagar,Tripura,Product_23,Electronics,3,2847.08,8541.24,Net Banking,Delivered,2026-03-28
+436,Biju Luthra,Burhanpur,Manipur,Product_29,Electronics,5,3576.94,17884.7,UPI,Cancelled,2025-09-09
+437,Vaibhav Dara,Jhansi,Uttar Pradesh,Product_50,Sports,2,3668.49,7336.98,Net Banking,Cancelled,2025-11-22
+438,Alia Dhingra,Ozhukarai,Tamil Nadu,Product_80,Sports,2,310.03,620.06,Cash,Shipped,2026-02-03
+439,Madhup Kohli,Pimpri-Chinchwad,Gujarat,Product_22,Books,4,2606.51,10426.04,Credit Card,Pending,2025-11-02
+440,Advika Chand,Dharmavaram,Chhattisgarh,Product_31,Fashion,4,855.91,3423.64,Cash,Cancelled,2026-05-09
+441,Baiju Saha,Eluru,Punjab,Product_11,Fashion,4,4136.52,16546.08,Net Banking,Cancelled,2026-03-01
+442,Taran Sur,Chittoor,Arunachal Pradesh,Product_75,Books,4,2249.32,8997.28,Cash,Cancelled,2026-02-03
+443,Ivana Saini,Hyderabad,Karnataka,Product_82,Home,3,1734.71,5204.13,UPI,Delivered,2025-05-21
+444,Nirvaan Balay,Rohtak,Karnataka,Product_84,Fashion,1,1283.36,1283.36,Credit Card,Delivered,2025-10-03
+445,Jayan Venkataraman,Katni,Tripura,Product_74,Electronics,5,3662.34,18311.7,Cash,Pending,2026-01-05
+446,Lavanya Bassi,Jalna,Telangana,Product_8,Books,5,1412.22,7061.1,Net Banking,Delivered,2026-04-04
+447,Kismat Sahota,Bikaner,Maharashtra,Product_67,Sports,4,1617.84,6471.36,Cash,Delivered,2026-04-07
+448,Badal Mall,Jamshedpur,Nagaland,Product_32,Electronics,1,882.41,882.41,UPI,Pending,2026-04-21
+449,Ishaan Som,Ramagundam,Himachal Pradesh,Product_50,Electronics,4,3253.98,13015.92,UPI,Shipped,2025-06-12
+450,Saksham Viswanathan,Singrauli,Meghalaya,Product_56,Electronics,4,197.77,791.08,Cash,Delivered,2025-11-08
+451,Jiya Sane,Bareilly,Arunachal Pradesh,Product_75,Sports,2,2025.3,4050.6,Cash,Shipped,2025-09-25
+452,Vardaniya Dara,Nashik,Tripura,Product_33,Books,2,2768.14,5536.28,Net Banking,Delivered,2025-10-01
+453,Jhanvi Ramaswamy,Gandhidham,Assam,Product_81,Fashion,5,433.44,2167.2,UPI,Pending,2026-03-13
+454,Kabir Tella,Mysore,Mizoram,Product_90,Home,4,2223.61,8894.44,Credit Card,Cancelled,2025-07-24
+455,Ojas Bose,Tirunelveli,Maharashtra,Product_30,Sports,3,349.67,1049.01,Net Banking,Delivered,2025-09-25
+456,Vivaan Kari,Motihari,Meghalaya,Product_92,Sports,2,4005.49,8010.98,UPI,Cancelled,2026-03-11
+457,Seher Sur,Bhalswa Jahangir Pur,Sikkim,Product_40,Home,4,287.24,1148.96,Cash,Pending,2025-12-26
+458,Yashvi Sachar,Mangalore,Meghalaya,Product_97,Books,3,3761.72,11285.16,Net Banking,Pending,2025-10-16
+459,Nakul Sanghvi,Rewa,Meghalaya,Product_43,Sports,2,3724.9,7449.8,Cash,Delivered,2025-10-09
+460,Kismat Saraf,Rampur,Himachal Pradesh,Product_83,Fashion,5,3394.69,16973.45,Cash,Delivered,2025-05-25
+461,Taran Dave,Danapur,Sikkim,Product_69,Fashion,3,1220.01,3660.03,Credit Card,Pending,2025-08-05
+462,Dharmajan Sant,Junagadh,Karnataka,Product_47,Sports,2,1515.24,3030.48,Credit Card,Delivered,2025-06-25
+463,Lagan Lad,Fatehpur,Himachal Pradesh,Product_4,Fashion,1,757.9,757.9,Cash,Delivered,2026-02-04
+464,Jayant Saraf,Bahraich,Telangana,Product_69,Fashion,3,2610.71,7832.13,Net Banking,Pending,2025-10-10
+465,Farhan Hora,Motihari,Meghalaya,Product_32,Electronics,3,414.29,1242.87,Cash,Pending,2025-10-15
+466,Aarna Keer,Lucknow,Haryana,Product_18,Home,1,601.59,601.59,UPI,Delivered,2025-05-26
+467,Kavya Sheth,Hubli–Dharwad,Mizoram,Product_6,Home,3,1143.26,3429.78,UPI,Cancelled,2025-11-28
+468,Devansh Iyengar,Tirunelveli,Tripura,Product_57,Books,3,1299.67,3899.01,Cash,Shipped,2025-09-22
+469,Uthkarsh Korpal,Yamunanagar,Assam,Product_1,Books,1,3791.65,3791.65,UPI,Pending,2025-10-07
+470,Kanav Ghose,Bhiwani,Goa,Product_7,Fashion,5,4225.99,21129.95,Net Banking,Cancelled,2026-02-18
+471,Abram Dua,Panvel,Tripura,Product_8,Fashion,5,2703.15,13515.75,Net Banking,Pending,2025-11-25
+472,Seher Thaman,Tenali,Gujarat,Product_26,Books,4,1312.86,5251.44,UPI,Shipped,2025-10-21
+473,Miraya Karpe,Bilaspur,Punjab,Product_78,Fashion,3,2364.91,7094.73,Cash,Pending,2026-03-29
+474,Saira Brar,Haldia,Andhra Pradesh,Product_59,Electronics,1,4295.1,4295.1,UPI,Delivered,2026-01-05
+475,Madhav Ratti,Pondicherry,Uttarakhand,Product_46,Home,4,4696.41,18785.64,UPI,Shipped,2026-01-16
+476,Badal Chandra,Gurgaon,Goa,Product_85,Sports,4,386.78,1547.12,Credit Card,Cancelled,2025-09-01
+477,Sumer Issac,Rajpur Sonarpur,Haryana,Product_23,Home,3,4494.22,13482.66,Net Banking,Pending,2026-02-20
+478,Ryan Thaker,Kavali,Chhattisgarh,Product_86,Books,3,4491.13,13473.39,Cash,Cancelled,2026-02-17
+479,Azad Bhandari,Amritsar,Uttarakhand,Product_61,Books,2,4065.59,8131.18,Cash,Shipped,2025-10-20
+480,Arhaan Reddy,Vasai-Virar,Meghalaya,Product_81,Fashion,4,1497.75,5991.0,Credit Card,Delivered,2026-05-03
+481,Priyansh Rege,Varanasi,Odisha,Product_45,Books,4,4616.99,18467.96,Credit Card,Cancelled,2026-03-29
+482,Ela Aggarwal,Vellore,Telangana,Product_79,Sports,4,3078.71,12314.84,Net Banking,Cancelled,2026-03-26
+483,Vidur Sahni,Pondicherry,Mizoram,Product_66,Home,3,3174.6,9523.8,Net Banking,Pending,2026-04-13
+484,Zaina Yadav,Bhimavaram,Uttar Pradesh,Product_93,Home,4,3405.08,13620.32,UPI,Delivered,2026-04-03
+485,Adira Sama,Jalandhar,Gujarat,Product_44,Sports,1,949.79,949.79,Net Banking,Pending,2025-06-12
+486,Umang Dhar,New Delhi,Uttar Pradesh,Product_35,Sports,3,1637.24,4911.72,Net Banking,Delivered,2025-05-31
+487,Keya Sundaram,Yamunanagar,Karnataka,Product_92,Electronics,2,975.77,1951.54,UPI,Pending,2026-02-20
+488,Gokul Bala,Faridabad,Odisha,Product_89,Home,4,2591.65,10366.6,UPI,Delivered,2025-09-26
+489,Arhaan Dubey,Jehanabad,Bihar,Product_76,Home,1,532.33,532.33,UPI,Delivered,2025-05-20
+490,Tanya Bhandari,Vellore,Odisha,Product_20,Home,3,2278.9,6836.7,UPI,Pending,2025-08-13
+491,Alisha Chaudhuri,Arrah,Sikkim,Product_12,Home,4,1884.57,7538.28,Net Banking,Delivered,2025-08-01
+492,Tushar Grewal,Mirzapur,Arunachal Pradesh,Product_22,Sports,1,2960.43,2960.43,Net Banking,Delivered,2026-01-25
+493,Mishti Bhatti,Mira-Bhayandar,Maharashtra,Product_48,Books,4,550.91,2203.64,UPI,Delivered,2025-08-15
+494,Kismat Shenoy,Bangalore,Karnataka,Product_30,Books,5,191.52,957.6,UPI,Cancelled,2025-12-21
+495,Lakshay Sawhney,Chittoor,Tripura,Product_9,Electronics,1,225.28,225.28,Credit Card,Shipped,2026-01-19
+496,Ehsaan Brahmbhatt,Moradabad,Telangana,Product_89,Electronics,2,2128.73,4257.46,Cash,Delivered,2025-11-27
+497,Samar Chowdhury,Raichur,Andhra Pradesh,Product_75,Books,3,780.9,2342.7,Net Banking,Delivered,2025-06-20
+498,Tiya Chhabra,Kurnool,Haryana,Product_60,Books,1,2197.75,2197.75,Credit Card,Pending,2025-08-03
+499,Nayantara Krishnan,Proddatur,Andhra Pradesh,Product_67,Fashion,4,4157.78,16631.12,Net Banking,Shipped,2025-08-31
+500,Aarav Dass,Moradabad,Odisha,Product_96,Electronics,5,3973.71,19868.55,Cash,Cancelled,2025-10-06
+501,Pihu Zacharia,Jamalpur,Chhattisgarh,Product_4,Home,4,2430.41,9721.64,Credit Card,Delivered,2026-04-23
+502,Dharmajan Varghese,Kharagpur,Nagaland,Product_32,Books,4,2386.47,9545.88,Cash,Delivered,2026-02-14
+503,Divij Sunder,Vijayanagaram,Kerala,Product_30,Books,4,3249.57,12998.28,Cash,Pending,2026-02-19
+504,Ishita Saran,Malda,Meghalaya,Product_60,Sports,5,769.82,3849.1,UPI,Pending,2026-03-17
+505,Rati Devi,Jammu,Andhra Pradesh,Product_37,Fashion,5,2073.31,10366.55,Cash,Cancelled,2026-03-07
+506,Krish Buch,Ambala,Goa,Product_94,Books,3,944.21,2832.63,UPI,Pending,2025-09-22
+507,Dharmajan Boase,Moradabad,Maharashtra,Product_65,Home,4,2819.08,11276.32,Cash,Pending,2026-02-08
+508,Zeeshan Chana,Eluru,Uttar Pradesh,Product_3,Electronics,3,1252.88,3758.64,Cash,Shipped,2026-03-28
+509,Aaina Thaman,Narasaraopet,Uttarakhand,Product_53,Electronics,3,4983.25,14949.75,Credit Card,Cancelled,2026-03-14
+510,Kimaya Kale,Siliguri,Sikkim,Product_78,Sports,2,2022.18,4044.36,Cash,Pending,2025-08-17
+511,Madhav Ben,Malda,Tripura,Product_29,Home,3,288.5,865.5,Credit Card,Shipped,2025-11-19
+512,Zeeshan Sengupta,Pallavaram,Chhattisgarh,Product_31,Electronics,4,4435.64,17742.56,Net Banking,Delivered,2026-05-19
+513,Divyansh Hayer,Dewas,Mizoram,Product_25,Electronics,5,4957.58,24787.9,Cash,Pending,2025-08-25
+514,Advik Lall,Nanded,Mizoram,Product_42,Home,4,4416.15,17664.6,Cash,Pending,2026-03-15
+515,Ehsaan Kohli,Bhind,Telangana,Product_15,Fashion,3,3395.95,10187.85,Net Banking,Cancelled,2026-04-30
+516,Lakshay Char,Gudivada,Maharashtra,Product_89,Sports,4,1139.31,4557.24,Cash,Pending,2026-03-28
+517,Uthkarsh Mall,Bhind,Maharashtra,Product_62,Fashion,3,3007.49,9022.47,Credit Card,Cancelled,2025-06-25
+518,Pranay Balan,Munger,Assam,Product_1,Fashion,4,2907.75,11631.0,UPI,Cancelled,2025-10-18
+519,Jayant Dash,Dharmavaram,Assam,Product_41,Electronics,1,1963.81,1963.81,Cash,Cancelled,2026-04-28
+520,Anika Ratta,Panchkula,Goa,Product_77,Sports,1,4951.77,4951.77,Credit Card,Delivered,2025-09-27
+521,Mishti Shukla,Thoothukudi,Punjab,Product_96,Sports,3,2512.17,7536.51,Net Banking,Pending,2025-08-18
+522,Vivaan Kalla,Raiganj,Uttarakhand,Product_24,Sports,5,3151.06,15755.3,Cash,Shipped,2026-01-14
+523,Parinaaz Chacko,Ghaziabad,Assam,Product_2,Sports,1,4880.66,4880.66,Credit Card,Delivered,2025-09-27
+524,Seher Ravi,Barasat,Sikkim,Product_4,Home,3,3811.95,11435.85,Net Banking,Delivered,2026-03-04
+525,Aaina Saha,Karnal,Andhra Pradesh,Product_44,Home,4,4882.08,19528.32,Credit Card,Cancelled,2026-01-11
+526,Uthkarsh Mann,Amravati,Nagaland,Product_18,Electronics,3,4136.11,12408.33,Credit Card,Pending,2025-09-16
+527,Anaya Mammen,Satara,Tripura,Product_34,Home,5,1033.51,5167.55,Net Banking,Delivered,2025-12-12
+528,Abram Varty,Srinagar,Himachal Pradesh,Product_58,Books,4,4592.56,18370.24,Credit Card,Delivered,2025-09-16
+529,Zaina Ramaswamy,Bokaro,Tamil Nadu,Product_46,Books,4,1394.28,5577.12,Credit Card,Delivered,2026-02-13
+530,Diya Dutt,Bhavnagar,Arunachal Pradesh,Product_77,Sports,1,2825.98,2825.98,Net Banking,Shipped,2025-08-15
+531,Biju Bhavsar,Loni,Gujarat,Product_93,Home,3,3347.48,10042.44,UPI,Shipped,2025-12-06
+532,Neelofar Batra,Navi Mumbai,Maharashtra,Product_73,Books,2,320.49,640.98,Net Banking,Pending,2026-04-08
+533,Vritika Vora,Hindupur,Madhya Pradesh,Product_85,Sports,1,2731.4,2731.4,Cash,Shipped,2025-07-14
+534,Shaan Sarna,Barasat,Himachal Pradesh,Product_82,Home,5,3888.74,19443.7,UPI,Shipped,2026-03-14
+535,Kismat Kade,Ratlam,Nagaland,Product_89,Books,3,507.73,1523.19,Cash,Pending,2025-12-31
+536,Riya Kata,Kakinada,Arunachal Pradesh,Product_89,Electronics,1,800.51,800.51,Net Banking,Shipped,2025-08-14
+537,Ahana  Bhat,Sultan Pur Majra,Chhattisgarh,Product_32,Fashion,3,4885.56,14656.68,UPI,Pending,2026-05-02
+538,Eshani Tailor,Parbhani,Karnataka,Product_21,Fashion,5,1724.06,8620.3,Credit Card,Shipped,2026-03-23
+539,Shaan Guha,Ratlam,Sikkim,Product_45,Electronics,4,4216.24,16864.96,Credit Card,Shipped,2025-07-02
+540,Darshit Bhatti,Pimpri-Chinchwad,Gujarat,Product_10,Electronics,3,4978.42,14935.26,Net Banking,Cancelled,2026-02-14
+541,Anaya Kurian,Dharmavaram,Meghalaya,Product_43,Sports,5,3115.66,15578.3,Credit Card,Cancelled,2025-11-20
+542,Rohan Kanda,Khammam,Haryana,Product_59,Sports,3,4693.92,14081.76,Credit Card,Cancelled,2025-07-08
+543,Mishti Khatri,Berhampore,West Bengal,Product_19,Home,5,4399.7,21998.5,Credit Card,Pending,2025-10-27
+544,Fateh Bahl,Sangli-Miraj & Kupwad,Karnataka,Product_61,Home,3,4975.98,14927.94,UPI,Pending,2025-09-20
+545,Oorja Vaidya,Chennai,Telangana,Product_84,Fashion,2,4460.79,8921.58,Cash,Delivered,2026-01-16
+546,Akarsh Chada,Udupi,Meghalaya,Product_27,Fashion,4,3903.71,15614.84,Net Banking,Shipped,2025-07-20
+547,Divit Choudhary,Davanagere,Arunachal Pradesh,Product_79,Books,2,3084.2,6168.4,Credit Card,Cancelled,2025-10-14
+548,Kashvi Chacko,Jamnagar,Odisha,Product_9,Sports,1,4006.22,4006.22,UPI,Delivered,2025-06-12
+549,Nirvi Shan,Lucknow,Mizoram,Product_72,Fashion,2,4964.3,9928.6,UPI,Pending,2026-04-22
+550,Samarth Saran,Kottayam,Manipur,Product_22,Home,2,747.92,1495.84,Credit Card,Shipped,2025-10-11
+551,Vardaniya Subramaniam,Kakinada,Madhya Pradesh,Product_51,Fashion,1,4020.21,4020.21,Credit Card,Pending,2025-06-13
+552,Umang Sabharwal,Amroha,Rajasthan,Product_28,Sports,1,2383.61,2383.61,Cash,Shipped,2026-01-12
+553,Lagan Upadhyay,Orai,Sikkim,Product_68,Fashion,3,2340.32,7020.96,Credit Card,Pending,2026-03-07
+554,Samiha Chauhan,Phusro,Uttarakhand,Product_41,Fashion,1,708.33,708.33,Cash,Cancelled,2025-06-07
+555,Lagan Bansal,Guntakal,West Bengal,Product_8,Home,2,2428.71,4857.42,UPI,Shipped,2025-10-27
+556,Baiju Bora,Bangalore,Himachal Pradesh,Product_54,Sports,3,245.32,735.96,Net Banking,Shipped,2025-12-31
+557,Zeeshan Vala,Sambhal,Nagaland,Product_35,Fashion,5,2677.83,13389.15,UPI,Cancelled,2025-07-16
+558,Yuvraj  Bora,Proddatur,Uttar Pradesh,Product_72,Sports,5,2838.79,14193.95,Cash,Pending,2026-03-27
+559,Aayush Bhattacharyya,Guna,Punjab,Product_23,Electronics,4,2081.68,8326.72,Net Banking,Pending,2025-07-18
+560,Pihu Koshy,Guntakal,Maharashtra,Product_33,Books,2,567.17,1134.34,UPI,Delivered,2026-05-04
+561,Riaan Gour,Gandhidham,Jharkhand,Product_43,Fashion,5,890.33,4451.65,Net Banking,Shipped,2025-05-27
+562,Himmat D’Alia,Raipur,Karnataka,Product_80,Sports,3,732.4,2197.2,UPI,Cancelled,2025-08-22
+563,Anahita Sheth,Secunderabad,Odisha,Product_99,Home,3,2367.68,7103.04,Cash,Delivered,2026-02-14
+564,Ayesha Vaidya,Parbhani,Jharkhand,Product_21,Home,2,3712.15,7424.3,UPI,Shipped,2026-01-31
+565,Jhanvi Jain,Nadiad,Punjab,Product_5,Sports,1,488.85,488.85,Net Banking,Delivered,2025-05-25
+566,Trisha Chaudhuri,Vadodara,Tripura,Product_42,Sports,5,4934.5,24672.5,Net Banking,Delivered,2025-12-16
+567,Renee Dave,Jaunpur,Mizoram,Product_33,Fashion,4,2389.82,9559.28,UPI,Pending,2025-10-04
+568,Stuvan Mallick,Sultan Pur Majra,Chhattisgarh,Product_82,Sports,4,1994.22,7976.88,UPI,Delivered,2026-05-08
+569,Vritika Rastogi,Sirsa,Odisha,Product_3,Books,1,1831.51,1831.51,UPI,Shipped,2025-11-07
+570,Fateh Dhar,Sirsa,Gujarat,Product_69,Home,3,1845.78,5537.34,UPI,Delivered,2026-02-27
+571,Lakshit Sahota,Warangal,Sikkim,Product_26,Fashion,3,2479.63,7438.89,Credit Card,Delivered,2025-05-31
+572,Indrans Divan,Bhusawal,Sikkim,Product_64,Home,5,2090.27,10451.35,UPI,Cancelled,2026-01-14
+573,Hazel Dhaliwal,Raurkela Industrial Township,Nagaland,Product_71,Sports,3,2511.59,7534.77,UPI,Delivered,2026-03-19
+574,Emir Iyengar,Howrah,Meghalaya,Product_31,Sports,4,1781.14,7124.56,Cash,Cancelled,2025-06-07
+575,Hunar Deo,Tenali,Gujarat,Product_13,Books,3,453.77,1361.31,Credit Card,Delivered,2026-05-13
+576,Chirag Krishnamurthy,Bellary,Jharkhand,Product_17,Sports,1,4773.08,4773.08,UPI,Shipped,2025-10-09
+577,Keya Yadav,Madanapalle,Meghalaya,Product_34,Sports,1,3004.55,3004.55,UPI,Pending,2025-08-16
+578,Sana Chaudhari,Bhatpara,Uttar Pradesh,Product_47,Fashion,2,2780.26,5560.52,Cash,Pending,2025-11-03
+579,Kiara Ratta,Ranchi,Andhra Pradesh,Product_57,Fashion,4,2358.52,9434.08,Credit Card,Delivered,2025-11-17
+580,Sahil Sengupta,Proddatur,Chhattisgarh,Product_49,Books,1,2855.49,2855.49,Credit Card,Shipped,2025-06-12
+581,Stuvan Rajagopal,Bikaner,Kerala,Product_35,Electronics,2,946.25,1892.5,Credit Card,Shipped,2026-03-13
+582,Ivana Sule,Jalandhar,Bihar,Product_77,Fashion,1,3398.2,3398.2,UPI,Cancelled,2026-04-28
+583,Nitya Lala,South Dumdum,Uttarakhand,Product_32,Fashion,3,1658.75,4976.25,Net Banking,Cancelled,2025-12-01
+584,Anay Bhasin,Kollam,Odisha,Product_59,Home,1,1983.43,1983.43,Net Banking,Delivered,2025-11-21
+585,Riaan Zacharia,Kulti,West Bengal,Product_20,Electronics,4,3635.22,14540.88,Credit Card,Pending,2026-04-27
+586,Badal Reddy,Mangalore,Jharkhand,Product_78,Fashion,5,992.03,4960.15,Cash,Pending,2026-02-06
+587,Hridaan Saran,Bareilly,Maharashtra,Product_52,Sports,3,4044.56,12133.68,Net Banking,Cancelled,2025-10-22
+588,Mannat Contractor,Chennai,Kerala,Product_34,Electronics,2,3978.61,7957.22,Cash,Delivered,2025-08-14
+589,Ritvik Bhargava,Mira-Bhayandar,Chhattisgarh,Product_28,Electronics,1,3974.01,3974.01,Net Banking,Delivered,2025-07-19
+590,Advik Saran,Hyderabad,Gujarat,Product_37,Books,1,2200.42,2200.42,Credit Card,Delivered,2025-11-02
+591,Jiya Koshy,Panipat,Gujarat,Product_53,Sports,2,2847.32,5694.64,Cash,Delivered,2026-01-26
+592,Manjari Singhal,Bahraich,Himachal Pradesh,Product_27,Books,4,928.51,3714.04,Cash,Pending,2025-10-29
+593,Indrans Dubey,Ambarnath,Goa,Product_81,Books,3,2594.2,7782.6,Credit Card,Pending,2025-10-10
+594,Prerak Vyas,Sambalpur,Uttar Pradesh,Product_34,Sports,3,1886.91,5660.73,Net Banking,Delivered,2025-09-10
+595,Madhup Gandhi,Firozabad,Jharkhand,Product_85,Electronics,4,1832.4,7329.6,Net Banking,Cancelled,2026-02-15
+596,Tanya Talwar,Lucknow,Madhya Pradesh,Product_81,Home,3,1819.03,5457.09,Net Banking,Shipped,2025-06-10
+597,Piya Bhargava,Hubli–Dharwad,Gujarat,Product_68,Sports,1,1185.19,1185.19,Net Banking,Cancelled,2025-12-16
+598,Anika Vala,Gangtok,Tamil Nadu,Product_72,Fashion,5,3832.95,19164.75,Credit Card,Shipped,2026-04-10
+599,Piya Basu,Karawal Nagar,West Bengal,Product_88,Home,1,4499.94,4499.94,UPI,Cancelled,2025-10-25
+600,Yuvaan Chaudhry,Hajipur,Odisha,Product_1,Home,1,939.09,939.09,Cash,Shipped,2026-03-15
+601,Aradhya Ramanathan,Anantapur,Karnataka,Product_26,Books,3,2188.48,6565.44,Credit Card,Pending,2026-03-06
+602,Vedika Ganesan,Jamalpur,Tripura,Product_3,Books,2,561.88,1123.76,Credit Card,Shipped,2025-09-28
+603,Ojas Mahal,Phusro,Madhya Pradesh,Product_7,Home,3,3326.61,9979.83,UPI,Pending,2025-08-15
+604,Lakshay Karnik,Mysore,Meghalaya,Product_55,Home,2,3358.98,6717.96,Net Banking,Cancelled,2025-06-29
+605,Manjari Seth,Tadepalligudem,Uttarakhand,Product_10,Home,2,177.04,354.08,Net Banking,Delivered,2026-03-27
+606,Ojas Wadhwa,Howrah,Nagaland,Product_1,Sports,1,4105.45,4105.45,UPI,Cancelled,2026-02-07
+607,Nehmat Loyal,Ghaziabad,Tripura,Product_82,Home,4,634.37,2537.48,Credit Card,Cancelled,2026-03-27
+608,Krish Sangha,Ramgarh,Odisha,Product_29,Books,5,2951.15,14755.75,Credit Card,Delivered,2025-07-24
+609,Reyansh Vasa,Hubli–Dharwad,Tamil Nadu,Product_38,Books,5,3568.88,17844.4,Cash,Delivered,2026-01-12
+610,Pihu Rana,Machilipatnam,Gujarat,Product_23,Books,2,2063.69,4127.38,UPI,Delivered,2025-08-10
+611,Pranay Ahuja,Jalandhar,Manipur,Product_30,Books,1,3009.25,3009.25,Net Banking,Delivered,2026-01-31
+612,Divit Iyengar,Patiala,Arunachal Pradesh,Product_89,Home,1,723.92,723.92,UPI,Shipped,2026-05-04
+613,Anahita Bahri,Panipat,Bihar,Product_13,Electronics,3,3291.91,9875.73,Net Banking,Pending,2026-02-20
+614,Dharmajan Sarna,Hajipur,Tripura,Product_60,Books,4,153.08,612.32,Credit Card,Shipped,2025-08-21
+615,Anya Sandhu,Chapra,Bihar,Product_48,Electronics,2,2798.61,5597.22,Cash,Pending,2025-11-15
+616,Divit Choudhry,Erode,Karnataka,Product_27,Fashion,5,3819.43,19097.15,Credit Card,Cancelled,2025-10-18
+617,Myra Sachdev,Dharmavaram,Punjab,Product_100,Fashion,1,1858.31,1858.31,Net Banking,Delivered,2026-01-28
+618,Hazel Dugal,New Delhi,Maharashtra,Product_93,Sports,5,3820.03,19100.15,Cash,Shipped,2025-09-12
+619,Khushi Saraf,Ujjain,Uttar Pradesh,Product_97,Books,3,3926.39,11779.17,Cash,Cancelled,2025-08-03
+620,Aarna Thaman,Udupi,Karnataka,Product_29,Books,4,588.14,2352.56,Credit Card,Shipped,2026-02-06
+621,Armaan Raja,Nangloi Jat,Madhya Pradesh,Product_71,Home,5,3369.33,16846.65,UPI,Pending,2025-10-26
+622,Yashvi Bali,Dibrugarh,Tamil Nadu,Product_55,Fashion,5,3652.71,18263.55,Net Banking,Pending,2025-08-25
+623,Keya Gulati,Kolhapur,Odisha,Product_41,Sports,1,2707.04,2707.04,Cash,Pending,2026-02-20
+624,Priyansh Shukla,Shivpuri,Goa,Product_35,Fashion,2,2571.81,5143.62,Net Banking,Delivered,2026-04-14
+625,Samaira Chadha,Bhatpara,Jharkhand,Product_39,Books,4,1315.69,5262.76,Net Banking,Shipped,2025-09-03
+626,Kanav Bala,Bangalore,Rajasthan,Product_27,Books,4,1394.73,5578.92,Credit Card,Cancelled,2025-11-11
+627,Ranbir Grover,Solapur,Goa,Product_88,Fashion,1,2552.54,2552.54,Net Banking,Delivered,2025-08-05
+628,Hrishita Soman,Sultan Pur Majra,Karnataka,Product_22,Sports,4,1381.91,5527.64,Credit Card,Delivered,2026-01-14
+629,Ira Ganesan,Akola,Tripura,Product_74,Electronics,2,4732.29,9464.58,UPI,Shipped,2026-04-29
+630,Inaaya  Suresh,Phagwara,Haryana,Product_37,Sports,4,2235.66,8942.64,UPI,Shipped,2026-01-12
+631,Gatik Lalla,Mangalore,Odisha,Product_87,Electronics,1,908.13,908.13,Cash,Cancelled,2025-08-26
+632,Ishaan Mallick,Hazaribagh,Rajasthan,Product_73,Sports,1,2304.78,2304.78,Cash,Pending,2025-09-03
+633,Nehmat Randhawa,Mumbai,Chhattisgarh,Product_75,Electronics,3,4971.31,14913.93,Cash,Pending,2025-10-29
+634,Badal Sarna,Gangtok,Haryana,Product_8,Electronics,2,650.26,1300.52,Cash,Cancelled,2025-08-23
+635,Nitya Maharaj,Malegaon,Karnataka,Product_32,Home,1,1830.48,1830.48,Cash,Shipped,2025-05-27
+636,Ahana  Tak,Thrissur,Meghalaya,Product_85,Books,4,2099.97,8399.88,Cash,Pending,2025-12-05
+637,Onkar Sarin,Thanjavur,Kerala,Product_97,Sports,2,2043.82,4087.64,UPI,Pending,2025-09-03
+638,Shlok Gandhi,Tirunelveli,Uttarakhand,Product_67,Fashion,3,1770.66,5311.98,UPI,Delivered,2025-07-18
+639,Divij Acharya,Jehanabad,Andhra Pradesh,Product_62,Electronics,5,4762.51,23812.55,UPI,Pending,2025-10-30
+640,Samaira Deol,Vellore,Himachal Pradesh,Product_88,Electronics,3,3214.48,9643.44,Net Banking,Delivered,2025-08-04
+641,Priyansh Dua,Kulti,Mizoram,Product_4,Sports,4,2006.76,8027.04,Cash,Cancelled,2025-08-23
+642,Madhav Bala,Kulti,Jharkhand,Product_68,Sports,2,4919.0,9838.0,Credit Card,Cancelled,2026-04-16
+643,Charvi Gera,Ambala,Tripura,Product_92,Home,1,3835.93,3835.93,Net Banking,Pending,2025-07-13
+644,Lakshit Gaba,Vasai-Virar,Punjab,Product_17,Books,2,3769.26,7538.52,Net Banking,Pending,2026-02-28
+645,Elakshi Hari,Bhagalpur,Madhya Pradesh,Product_5,Fashion,4,4555.37,18221.48,UPI,Pending,2025-11-13
+646,Ivan Krishnan,Jorhat,Gujarat,Product_98,Sports,4,3944.13,15776.52,UPI,Pending,2025-12-14
+647,Vritika Atwal,Navi Mumbai,Bihar,Product_31,Home,2,961.22,1922.44,Net Banking,Shipped,2025-05-19
+648,Himmat Rau,Gandhidham,Assam,Product_35,Books,2,382.57,765.14,UPI,Pending,2025-06-04
+649,Prisha Uppal,Kulti,Kerala,Product_25,Electronics,4,1874.59,7498.36,Net Banking,Delivered,2026-05-17
+650,Yashvi Ganesh,Shimla,Madhya Pradesh,Product_11,Electronics,4,777.94,3111.76,Net Banking,Pending,2025-12-08
+651,Shray Dhar,Panvel,Madhya Pradesh,Product_54,Fashion,3,4526.4,13579.2,Cash,Delivered,2025-06-14
+652,Ehsaan Vaidya,Siwan,Manipur,Product_26,Home,5,4897.02,24485.1,Credit Card,Cancelled,2025-10-22
+653,Rania Arya,Shimoga,Madhya Pradesh,Product_5,Fashion,3,4873.28,14619.84,UPI,Shipped,2026-05-02
+654,Vidur Kulkarni,Berhampore,West Bengal,Product_84,Fashion,1,4577.39,4577.39,Credit Card,Pending,2026-01-04
+655,Shayak Ganesan,Moradabad,Tripura,Product_94,Books,4,4231.79,16927.16,Credit Card,Pending,2025-08-27
+656,Trisha Bansal,Mumbai,Chhattisgarh,Product_88,Fashion,3,2363.61,7090.83,Cash,Pending,2025-09-24
+657,Nayantara Sangha,Asansol,Nagaland,Product_44,Fashion,1,4970.67,4970.67,Credit Card,Shipped,2025-09-03
+658,Divyansh Manda,Maheshtala,Uttarakhand,Product_67,Fashion,3,445.08,1335.24,Cash,Delivered,2025-11-04
+659,Prisha Mangat,Shahjahanpur,Tamil Nadu,Product_73,Fashion,3,4565.17,13695.51,Net Banking,Pending,2025-10-23
+660,Ayesha Kanda,Proddatur,Gujarat,Product_17,Sports,4,211.81,847.24,Net Banking,Shipped,2026-04-27
+661,Tiya Thakur,Buxar,Bihar,Product_41,Books,1,3562.07,3562.07,Cash,Delivered,2026-04-18
+662,Nakul Chand,Rewa,Haryana,Product_69,Books,2,775.66,1551.32,Net Banking,Shipped,2025-10-28
+663,Rania Basu,Sonipat,West Bengal,Product_26,Home,4,1106.2,4424.8,Cash,Shipped,2026-02-04
+664,Rania Sahni,Pimpri-Chinchwad,Nagaland,Product_87,Sports,5,1550.98,7754.9,Cash,Pending,2025-07-07
+665,Dhanush Chawla,Raurkela Industrial Township,Telangana,Product_10,Books,4,330.25,1321.0,UPI,Delivered,2025-12-20
+666,Darshit Kaul,Bulandshahr,Uttar Pradesh,Product_1,Books,5,2414.39,12071.95,Credit Card,Cancelled,2026-01-30
+667,Ojas Banik,Sultan Pur Majra,Manipur,Product_11,Electronics,2,4214.67,8429.34,Cash,Shipped,2025-11-08
+668,Siya Sharaf,Jhansi,Chhattisgarh,Product_87,Fashion,2,4413.62,8827.24,Net Banking,Cancelled,2025-09-23
+669,Advika Kata,Bellary,Kerala,Product_96,Home,1,1143.42,1143.42,Credit Card,Cancelled,2025-09-25
+670,Rasha Chaudhari,Gudivada,Nagaland,Product_58,Fashion,5,1573.97,7869.85,Cash,Delivered,2025-11-13
+671,Anika Sampath,Parbhani,Sikkim,Product_48,Fashion,4,2203.14,8812.56,UPI,Shipped,2026-03-20
+672,Neelofar Majumdar,Pali,Nagaland,Product_20,Home,4,1635.63,6542.52,Net Banking,Cancelled,2025-10-03
+673,Ishaan Varkey,Kolkata,Odisha,Product_70,Sports,2,3998.49,7996.98,Net Banking,Pending,2025-10-29
+674,Bhavin Bava,Raebareli,Odisha,Product_50,Electronics,1,212.43,212.43,Cash,Pending,2025-08-21
+675,Siya Kaul,Pondicherry,West Bengal,Product_7,Home,2,3238.0,6476.0,Credit Card,Pending,2025-06-16
+676,Tushar Loke,Maheshtala,Uttarakhand,Product_31,Books,3,4019.35,12058.05,Cash,Delivered,2025-10-02
+677,Vanya Goyal,Udaipur,Telangana,Product_12,Electronics,3,3058.1,9174.3,Cash,Cancelled,2025-12-28
+678,Khushi Kuruvilla,Bhilwara,Gujarat,Product_61,Sports,1,2637.43,2637.43,Credit Card,Cancelled,2025-12-29
+679,Mehul Ray,Nagaon,Haryana,Product_23,Fashion,3,3334.14,10002.42,UPI,Pending,2026-05-07
+680,Aarav Loke,Mango,Maharashtra,Product_55,Home,5,2185.88,10929.4,Cash,Cancelled,2026-01-06
+681,Zara Wadhwa,Thanjavur,Arunachal Pradesh,Product_98,Sports,4,2082.17,8328.68,Net Banking,Pending,2025-11-23
+682,Hazel Bhardwaj,Ranchi,Odisha,Product_73,Sports,1,4426.59,4426.59,Cash,Shipped,2026-01-07
+683,Nitya Char,Bareilly,Maharashtra,Product_49,Fashion,3,1608.86,4826.58,UPI,Shipped,2025-10-15
+684,Jivin Tiwari,Ulhasnagar,Sikkim,Product_85,Home,1,3439.36,3439.36,UPI,Delivered,2025-07-31
+685,Stuvan Bir,Mira-Bhayandar,Jharkhand,Product_17,Fashion,5,544.13,2720.65,Net Banking,Shipped,2026-02-17
+686,Stuvan Goel,Panihati,Karnataka,Product_72,Electronics,5,2073.35,10366.75,Cash,Delivered,2025-07-31
+687,Miraya Bose,Phusro,Chhattisgarh,Product_32,Fashion,5,2539.95,12699.75,Credit Card,Cancelled,2025-09-14
+688,Ira Kuruvilla,Sirsa,Tamil Nadu,Product_36,Books,5,2346.29,11731.45,UPI,Pending,2025-08-22
+689,Advika Reddy,Sambhal,Bihar,Product_98,Home,1,2535.71,2535.71,UPI,Shipped,2025-09-10
+690,Khushi Sura,Burhanpur,Manipur,Product_71,Fashion,4,1674.39,6697.56,UPI,Shipped,2025-07-21
+691,Nirvi Manda,Kota,Jharkhand,Product_7,Sports,1,4745.68,4745.68,Cash,Shipped,2025-09-23
+692,Ishaan Sarma,Kulti,West Bengal,Product_17,Sports,3,1508.89,4526.67,Net Banking,Pending,2025-05-30
+693,Anay Bali,Phusro,Madhya Pradesh,Product_50,Home,1,4723.91,4723.91,Credit Card,Shipped,2025-05-30
+694,Aaina Kota,Ahmedabad,West Bengal,Product_11,Sports,5,971.55,4857.75,Cash,Pending,2026-03-18
+695,Neysa Goel,Guna,Chhattisgarh,Product_75,Electronics,3,2152.28,6456.84,Credit Card,Delivered,2025-06-08
+696,Lagan Agarwal,Kirari Suleman Nagar,Bihar,Product_77,Books,1,1672.59,1672.59,UPI,Shipped,2025-10-31
+697,Amira Bains,Dharmavaram,Jharkhand,Product_61,Books,1,963.98,963.98,Net Banking,Shipped,2025-09-04
+698,Nayantara Garde,Alwar,Bihar,Product_41,Fashion,4,1975.23,7900.92,UPI,Pending,2025-05-28
+699,Aarna Choudhry,Muzaffarnagar,Mizoram,Product_28,Books,3,3650.52,10951.56,Net Banking,Delivered,2025-09-29
+700,Drishya Kari,Alwar,Himachal Pradesh,Product_73,Electronics,2,2709.67,5419.34,Cash,Pending,2025-06-23
+701,Oorja Tak,Sasaram,Assam,Product_87,Fashion,1,427.7,427.7,UPI,Delivered,2025-12-29
+702,Jivin Sanghvi,Morena,Punjab,Product_86,Electronics,2,1730.93,3461.86,Net Banking,Pending,2025-08-05
+703,Jiya Bhatti,Bhubaneswar,Himachal Pradesh,Product_51,Home,3,4150.01,12450.03,UPI,Cancelled,2025-09-29
+704,Nitya Sane,Raipur,Gujarat,Product_34,Home,5,3965.76,19828.8,Net Banking,Pending,2025-09-23
+705,Tejas Vig,Rourkela,Tripura,Product_74,Home,4,3123.15,12492.6,UPI,Delivered,2025-11-23
+706,Romil Lad,Phagwara,Maharashtra,Product_23,Books,3,941.93,2825.79,UPI,Delivered,2026-05-19
+707,Divij Butala,Kharagpur,Meghalaya,Product_91,Fashion,3,470.2,1410.6,UPI,Cancelled,2025-10-25
+708,Amani Bumb,Anantapuram,Jharkhand,Product_65,Electronics,2,4549.7,9099.4,Net Banking,Delivered,2026-01-26
+709,Riaan Kumer,Ramagundam,Kerala,Product_93,Electronics,2,4799.16,9598.32,Net Banking,Cancelled,2025-08-24
+710,Keya Swamy,Guntur,Uttarakhand,Product_23,Home,2,918.88,1837.76,Cash,Pending,2026-04-09
+711,Saksham Basak,Jhansi,Kerala,Product_71,Books,3,3963.4,11890.2,Credit Card,Delivered,2025-08-16
+712,Azad Bera,Siliguri,West Bengal,Product_44,Fashion,5,207.5,1037.5,UPI,Delivered,2025-11-26
+713,Zaina Khalsa,Mysore,Andhra Pradesh,Product_70,Fashion,3,2807.19,8421.57,Cash,Cancelled,2026-05-02
+714,Badal Sabharwal,Delhi,Uttar Pradesh,Product_45,Home,3,2412.2,7236.6,UPI,Delivered,2025-09-26
+715,Renee Grover,Ajmer,Arunachal Pradesh,Product_70,Electronics,1,3121.1,3121.1,Cash,Pending,2025-10-06
+716,Anahi Dugal,Suryapet,Arunachal Pradesh,Product_67,Sports,5,998.26,4991.3,Cash,Shipped,2026-01-03
+717,Adira Dugar,Etawah,Uttarakhand,Product_44,Books,5,1880.64,9403.2,Credit Card,Cancelled,2026-03-06
+718,Reyansh Sule,Siliguri,Telangana,Product_76,Electronics,4,4084.73,16338.92,Credit Card,Cancelled,2025-12-17
+719,Drishya Andra,Jodhpur,West Bengal,Product_92,Fashion,4,2642.12,10568.48,UPI,Cancelled,2025-12-21
+720,Divij Mallick,Bhusawal,Bihar,Product_67,Home,5,1767.16,8835.8,Credit Card,Pending,2026-04-29
+721,Devansh Sarma,Jaunpur,Meghalaya,Product_90,Fashion,2,3210.14,6420.28,UPI,Delivered,2025-11-07
+722,Anahita Iyengar,Nagpur,Rajasthan,Product_9,Sports,2,3426.37,6852.74,Net Banking,Pending,2025-05-25
+723,Krish Bhargava,Panvel,Manipur,Product_41,Fashion,4,3126.14,12504.56,Credit Card,Pending,2025-06-21
+724,Aaina Sangha,Chandrapur,Jharkhand,Product_59,Books,3,344.33,1032.99,Credit Card,Shipped,2025-08-25
+725,Kaira Majumdar,Vellore,Meghalaya,Product_31,Sports,3,2666.72,8000.16,Cash,Pending,2025-07-28
+726,Hrishita Joshi,Ahmednagar,Arunachal Pradesh,Product_67,Books,1,2026.65,2026.65,Credit Card,Pending,2026-05-16
+727,Anahi Rastogi,Gudivada,Madhya Pradesh,Product_80,Books,3,138.28,414.84,UPI,Cancelled,2025-12-20
+728,Anya Chakraborty,Siwan,Arunachal Pradesh,Product_19,Fashion,3,569.51,1708.53,UPI,Delivered,2026-03-28
+729,Samar Sekhon,New Delhi,Madhya Pradesh,Product_84,Home,4,3101.53,12406.12,Net Banking,Cancelled,2025-07-01
+730,Indrans Yohannan,Davanagere,Arunachal Pradesh,Product_71,Sports,1,4247.73,4247.73,Credit Card,Delivered,2026-05-10
+731,Ranbir Kulkarni,Jorhat,Karnataka,Product_38,Electronics,5,744.55,3722.75,Credit Card,Cancelled,2026-03-04
+732,Arhaan Yohannan,Bhatpara,Meghalaya,Product_46,Home,4,1889.79,7559.16,UPI,Cancelled,2026-02-28
+733,Hiran Rout,Aligarh,Tamil Nadu,Product_21,Electronics,4,1471.52,5886.08,Credit Card,Cancelled,2025-08-14
+734,Nayantara Chadha,Proddatur,Andhra Pradesh,Product_2,Home,5,4099.27,20496.35,UPI,Shipped,2026-04-22
+735,Samaira Bhandari,Bally,Sikkim,Product_21,Books,1,3938.5,3938.5,Credit Card,Pending,2025-08-18
+736,Jivin Agate,Kulti,Rajasthan,Product_77,Sports,1,2236.3,2236.3,Credit Card,Shipped,2025-09-08
+737,Riya Suri,Jaipur,Bihar,Product_9,Fashion,4,214.96,859.84,UPI,Cancelled,2025-10-27
+738,Samaira Chaudry,Nandyal,Himachal Pradesh,Product_26,Books,4,3914.14,15656.56,UPI,Delivered,2025-09-13
+739,Sara Tandon,Raipur,Uttar Pradesh,Product_36,Electronics,3,2762.11,8286.33,Net Banking,Delivered,2025-09-25
+740,Rasha Sidhu,Jodhpur,Assam,Product_73,Sports,3,718.89,2156.67,Cash,Shipped,2025-06-22
+741,Dhanush Vasa,Tumkur,Goa,Product_70,Books,2,648.04,1296.08,UPI,Shipped,2025-07-09
+742,Nayantara Sengupta,Patna,Haryana,Product_96,Electronics,5,4923.21,24616.05,UPI,Pending,2025-12-17
+743,Aradhya Datta,Farrukhabad,Nagaland,Product_92,Electronics,1,477.06,477.06,UPI,Shipped,2025-07-17
+744,Sana Bala,Ambala,Uttarakhand,Product_69,Books,5,2132.0,10660.0,Cash,Delivered,2025-05-30
+745,Kiaan Jayaraman,Hindupur,West Bengal,Product_73,Home,3,3321.99,9965.97,Net Banking,Shipped,2025-11-20
+746,Adah Bir,Ongole,Meghalaya,Product_74,Electronics,5,2478.75,12393.75,UPI,Cancelled,2026-03-17
+747,Hiran Kade,Mau,Punjab,Product_14,Electronics,3,799.29,2397.87,Cash,Cancelled,2025-11-12
+748,Urvi Dash,Jodhpur,Assam,Product_8,Sports,2,1233.61,2467.22,Net Banking,Delivered,2025-12-31
+749,Saanvi Yogi,Unnao,Nagaland,Product_77,Fashion,1,2624.21,2624.21,Cash,Cancelled,2025-11-29
+750,Bhavin Tandon,Kharagpur,Madhya Pradesh,Product_47,Home,2,137.52,275.04,Cash,Pending,2025-07-24
+751,Aarna Raja,Agra,Uttar Pradesh,Product_51,Fashion,3,2394.79,7184.37,UPI,Pending,2026-02-09
+752,Zeeshan Ramaswamy,Hospet,Rajasthan,Product_34,Home,4,2311.76,9247.04,UPI,Shipped,2025-11-17
+753,Miraan Kuruvilla,Kochi,Andhra Pradesh,Product_54,Books,2,4712.84,9425.68,UPI,Cancelled,2026-03-23
+754,Adah Ravi,Bharatpur,Rajasthan,Product_94,Home,3,2999.36,8998.08,Net Banking,Pending,2025-12-12
+755,Shamik Saha,Rajkot,Sikkim,Product_53,Fashion,2,393.57,787.14,Cash,Cancelled,2026-01-26
+756,Uthkarsh Sule,Tadepalligudem,Mizoram,Product_31,Electronics,2,2249.7,4499.4,Net Banking,Pending,2025-11-26
+757,Reyansh Kadakia,Varanasi,Uttarakhand,Product_34,Books,4,2423.4,9693.6,UPI,Shipped,2025-08-23
+758,Jiya Suri,Kolhapur,Maharashtra,Product_68,Sports,3,2349.05,7047.15,Cash,Delivered,2026-01-07
+759,Riya Batra,Bulandshahr,Arunachal Pradesh,Product_37,Sports,3,3140.05,9420.15,Credit Card,Delivered,2026-04-08
+760,Aarna Suresh,Alappuzha,Telangana,Product_96,Home,4,3494.58,13978.32,Credit Card,Delivered,2026-04-24
+761,Jayesh Sankar,Noida,Sikkim,Product_70,Books,4,3191.48,12765.92,UPI,Pending,2026-04-10
+762,Bhavin Deol,Tadepalligudem,Mizoram,Product_82,Sports,2,2175.14,4350.28,Cash,Delivered,2026-05-19
+763,Inaaya  Sama,Kolhapur,Odisha,Product_14,Home,1,2715.49,2715.49,Net Banking,Pending,2025-05-23
+764,Riaan Arya,Kharagpur,Uttarakhand,Product_82,Fashion,1,3229.57,3229.57,Credit Card,Shipped,2025-10-11
+765,Aarna Iyer,Begusarai,Madhya Pradesh,Product_14,Electronics,1,2115.63,2115.63,Cash,Shipped,2025-06-14
+766,Vritika Agate,Ulhasnagar,Goa,Product_93,Home,3,1123.9,3371.7,Net Banking,Delivered,2026-03-26
+767,Jivika Guha,Gangtok,Uttarakhand,Product_84,Home,3,1641.43,4924.29,UPI,Shipped,2025-09-24
+768,Rasha Batta,Thane,Arunachal Pradesh,Product_21,Sports,4,2401.43,9605.72,UPI,Cancelled,2025-08-03
+769,Madhup Chaudhary,Madanapalle,Tripura,Product_10,Home,1,3021.63,3021.63,Credit Card,Pending,2026-04-10
+770,Dhanush Sura,Gandhinagar,Rajasthan,Product_82,Fashion,5,1356.45,6782.25,Cash,Delivered,2025-05-23
+771,Faiyaz Sawhney,Bhimavaram,Himachal Pradesh,Product_32,Home,4,1649.29,6597.16,Cash,Shipped,2025-10-24
+772,Myra Handa,Dhule,Mizoram,Product_52,Fashion,2,1850.88,3701.76,UPI,Pending,2026-01-18
+773,Tanya Sodhi,Machilipatnam,Punjab,Product_62,Home,4,1344.79,5379.16,Net Banking,Delivered,2025-05-20
+774,Jayesh Kothari,Chinsurah,Kerala,Product_32,Fashion,3,715.33,2145.99,UPI,Cancelled,2026-02-06
+775,Yakshit Zacharia,Kavali,Manipur,Product_4,Electronics,2,2963.16,5926.32,Credit Card,Cancelled,2026-01-28
+776,Jiya Agarwal,Begusarai,Maharashtra,Product_28,Books,2,2516.74,5033.48,Net Banking,Delivered,2025-07-13
+777,Eva Gade,Mahbubnagar,Haryana,Product_2,Books,3,1218.17,3654.51,UPI,Delivered,2025-10-20
+778,Tarini Badal,Raichur,Chhattisgarh,Product_79,Books,1,3516.85,3516.85,Credit Card,Cancelled,2025-07-04
+779,Shalv Vohra,Raichur,Telangana,Product_57,Home,3,3969.3,11907.9,Credit Card,Pending,2026-03-31
+780,Sumer Sani,Bardhaman,Manipur,Product_51,Sports,5,2150.82,10754.1,UPI,Delivered,2025-08-31
+781,Khushi Basak,Anantapur,Goa,Product_45,Electronics,5,1403.01,7015.05,UPI,Delivered,2026-04-18
+782,Divij Virk,Thoothukudi,Kerala,Product_48,Sports,1,2140.03,2140.03,Net Banking,Cancelled,2026-05-08
+783,Yasmin Chopra,Bhalswa Jahangir Pur,Andhra Pradesh,Product_84,Home,2,3101.33,6202.66,Net Banking,Cancelled,2026-01-16
+784,Seher Bir,Shahjahanpur,Andhra Pradesh,Product_95,Electronics,5,4110.3,20551.5,Cash,Cancelled,2025-10-07
+785,Ivana Mangat,Alappuzha,Arunachal Pradesh,Product_93,Home,5,3442.85,17214.25,Net Banking,Shipped,2025-10-08
+786,Madhup Aurora,Saharanpur,Mizoram,Product_100,Fashion,1,1327.75,1327.75,Net Banking,Delivered,2025-06-20
+787,Jhanvi Thaman,Tiruppur,Goa,Product_74,Sports,4,4816.58,19266.32,UPI,Pending,2026-04-21
+788,Farhan Sarkar,Ahmednagar,Odisha,Product_10,Sports,5,1657.96,8289.8,Credit Card,Shipped,2025-10-14
+789,Kaira Guha,Phusro,Meghalaya,Product_7,Sports,2,3771.18,7542.36,Cash,Shipped,2026-02-15
+790,Nirvi Bala,Chapra,Haryana,Product_41,Sports,5,423.05,2115.25,Net Banking,Cancelled,2025-06-11
+791,Shray Sama,Bhagalpur,Bihar,Product_9,Home,5,2622.91,13114.55,Cash,Delivered,2026-05-18
+792,Rohan Shukla,Srinagar,Sikkim,Product_77,Home,5,1945.93,9729.65,UPI,Shipped,2026-04-04
+793,Pihu Karpe,Gandhinagar,Bihar,Product_9,Sports,3,2205.29,6615.87,Net Banking,Delivered,2026-04-20
+794,Jiya Wali,Kollam,Kerala,Product_81,Electronics,4,3938.61,15754.44,Net Banking,Delivered,2025-07-01
+795,Nishith Dalal,Tinsukia,Manipur,Product_92,Sports,1,3627.61,3627.61,Cash,Pending,2026-05-13
+796,Vidur Dua,Akola,West Bengal,Product_87,Home,4,3831.17,15324.68,Cash,Pending,2025-08-11
+797,Khushi Suresh,Mathura,Himachal Pradesh,Product_88,Sports,5,313.73,1568.65,Net Banking,Shipped,2026-04-23
+798,Raghav Bhatt,Kamarhati,Himachal Pradesh,Product_60,Home,3,4884.5,14653.5,Net Banking,Pending,2026-01-07
+799,Aarush Sastry,Etawah,Madhya Pradesh,Product_50,Electronics,4,985.6,3942.4,Credit Card,Cancelled,2025-12-29
+800,Raghav Chopra,Thiruvananthapuram,Punjab,Product_53,Electronics,5,751.78,3758.9,UPI,Delivered,2025-12-09
+801,Biju Bhalla,Aizawl,Kerala,Product_1,Books,1,4279.75,4279.75,UPI,Cancelled,2025-12-30
+802,Mahika Kohli,Alwar,Tamil Nadu,Product_36,Books,3,3152.79,9458.37,UPI,Cancelled,2025-06-25
+803,Jayan Bera,Delhi,Telangana,Product_54,Sports,4,4618.15,18472.6,Cash,Pending,2025-05-23
+804,Shaan Agate,Thiruvananthapuram,Sikkim,Product_73,Books,3,4317.18,12951.54,UPI,Shipped,2025-10-20
+805,Adah Hayre,Etawah,Jharkhand,Product_39,Electronics,1,1627.43,1627.43,Cash,Pending,2025-10-04
+806,Amira Garg,Proddatur,Kerala,Product_10,Electronics,4,4312.22,17248.88,Cash,Pending,2025-12-16
+807,Jayesh Buch,Dehradun,Andhra Pradesh,Product_94,Electronics,3,1448.87,4346.61,UPI,Shipped,2025-06-20
+808,Mannat Sachar,Durgapur,West Bengal,Product_4,Fashion,1,916.51,916.51,Cash,Cancelled,2025-11-22
+809,Yuvraj  Bir,Dhule,Uttar Pradesh,Product_34,Sports,4,3941.4,15765.6,UPI,Delivered,2025-08-22
+810,Riaan Yadav,Tadepalligudem,Tripura,Product_94,Home,2,2388.14,4776.28,Credit Card,Delivered,2025-07-28
+811,Ehsaan Garde,Aizawl,Himachal Pradesh,Product_100,Fashion,3,2992.95,8978.85,Cash,Delivered,2025-11-25
+812,Madhav Bhattacharyya,Nanded,Rajasthan,Product_84,Fashion,4,3930.18,15720.72,UPI,Cancelled,2025-07-18
+813,Prisha Arya,Bhiwandi,Punjab,Product_27,Fashion,1,4584.97,4584.97,Net Banking,Delivered,2025-11-29
+814,Shayak Sankar,Gorakhpur,Assam,Product_43,Electronics,5,4093.57,20467.85,Credit Card,Cancelled,2025-06-22
+815,Prisha Vala,Bhiwandi,Uttar Pradesh,Product_4,Fashion,2,4131.0,8262.0,Net Banking,Shipped,2025-10-31
+816,Nitara Chawla,Guntur,Madhya Pradesh,Product_89,Books,5,2923.07,14615.35,Credit Card,Shipped,2026-01-16
+817,Krish Bhatti,Thoothukudi,Uttar Pradesh,Product_60,Fashion,2,392.67,785.34,Net Banking,Pending,2025-08-11
+818,Zain Arora,Haldia,Bihar,Product_55,Sports,5,2590.0,12950.0,Net Banking,Shipped,2026-01-24
+819,Mahika Dalal,Hosur,Arunachal Pradesh,Product_24,Home,4,369.74,1478.96,Credit Card,Shipped,2025-08-10
+820,Bhavin Kala,Kirari Suleman Nagar,Goa,Product_99,Books,3,3969.99,11909.97,Credit Card,Delivered,2025-06-21
+821,Ishaan Biswas,Bongaigaon,Tamil Nadu,Product_30,Home,2,1337.87,2675.74,Cash,Shipped,2025-12-10
+822,Anika Chaudhuri,Delhi,Haryana,Product_14,Sports,2,3922.45,7844.9,UPI,Pending,2025-09-05
+823,Hansh Kala,Eluru,Chhattisgarh,Product_67,Electronics,3,3599.71,10799.13,UPI,Shipped,2025-10-23
+824,Neelofar Mani,Pimpri-Chinchwad,Telangana,Product_12,Home,1,4072.01,4072.01,UPI,Delivered,2025-11-01
+825,Damini Rau,Erode,Telangana,Product_92,Sports,1,2862.1,2862.1,Cash,Cancelled,2026-01-24
+826,Aarush Iyer,Sikar,Haryana,Product_59,Electronics,4,2127.32,8509.28,Net Banking,Cancelled,2025-07-09
+827,Yashvi Anne,Medininagar,Sikkim,Product_16,Books,1,4510.45,4510.45,Net Banking,Pending,2026-05-19
+828,Ritvik Dubey,Gangtok,Himachal Pradesh,Product_81,Home,5,1983.4,9917.0,UPI,Pending,2026-03-28
+829,Kavya Sangha,Nashik,Punjab,Product_57,Sports,4,3567.03,14268.12,Cash,Delivered,2025-12-05
+830,Diya Gara,Junagadh,Meghalaya,Product_45,Home,5,2398.24,11991.2,Credit Card,Delivered,2026-04-07
+831,Anvi Boase,Bidar,Assam,Product_78,Sports,4,639.97,2559.88,UPI,Shipped,2026-03-05
+832,Alisha Subramanian,Raichur,Chhattisgarh,Product_1,Sports,1,3784.96,3784.96,Net Banking,Cancelled,2025-12-08
+833,Riya Sankaran,Ahmedabad,West Bengal,Product_76,Electronics,2,755.45,1510.9,Cash,Delivered,2025-08-09
+834,Navya Sangha,Jaipur,Arunachal Pradesh,Product_25,Home,2,3762.21,7524.42,Cash,Shipped,2025-11-21
+835,Urvi Madan,Gurgaon,Meghalaya,Product_73,Books,4,3077.12,12308.48,Cash,Shipped,2026-03-03
+836,Gatik Ratta,Bettiah,Kerala,Product_3,Books,1,724.08,724.08,Cash,Pending,2025-12-04
+837,Vanya Loke,Udupi,Gujarat,Product_45,Sports,3,2499.06,7497.18,UPI,Shipped,2026-01-19
+838,Jayant Sha,Anantapur,Goa,Product_57,Sports,5,3494.3,17471.5,UPI,Pending,2026-02-27
+839,Inaaya  Ramachandran,Kolkata,Haryana,Product_57,Home,5,1905.14,9525.7,Credit Card,Shipped,2025-05-25
+840,Vardaniya Hayre,Ambala,Odisha,Product_27,Home,2,2619.46,5238.92,Net Banking,Pending,2025-07-09
+841,Hunar Ghosh,Yamunanagar,Chhattisgarh,Product_12,Electronics,4,4972.66,19890.64,Cash,Pending,2025-10-23
+842,Neysa Banik,Faridabad,Sikkim,Product_33,Electronics,5,1086.54,5432.7,UPI,Pending,2025-07-01
+843,Diya Kari,Dehradun,Nagaland,Product_84,Sports,2,3253.35,6506.7,Net Banking,Delivered,2025-10-28
+844,Anvi Dara,Korba,Andhra Pradesh,Product_21,Sports,3,3278.56,9835.68,Net Banking,Shipped,2025-11-22
+845,Kanav Krishnamurthy,Malda,West Bengal,Product_7,Fashion,2,4431.72,8863.44,Credit Card,Shipped,2026-01-29
+846,Ivan Tara,Suryapet,Uttarakhand,Product_79,Books,3,1845.46,5536.38,Credit Card,Delivered,2025-08-24
+847,Kiaan Sura,Durg,Tripura,Product_42,Electronics,2,4405.65,8811.3,Cash,Delivered,2026-03-13
+848,Jayan Magar,Bhalswa Jahangir Pur,Assam,Product_46,Home,5,1567.34,7836.7,UPI,Delivered,2025-06-09
+849,Gokul Kala,Davanagere,Haryana,Product_73,Books,1,3297.31,3297.31,Credit Card,Cancelled,2026-05-06
+850,Dhruv Balan,Sonipat,Gujarat,Product_1,Sports,3,3671.4,11014.2,Net Banking,Cancelled,2025-11-05
+851,Mannat Maharaj,Bhalswa Jahangir Pur,Andhra Pradesh,Product_77,Fashion,3,2691.59,8074.77,Cash,Shipped,2025-12-24
+852,Armaan Doshi,Sonipat,Kerala,Product_7,Electronics,4,1291.54,5166.16,Cash,Shipped,2025-09-29
+853,Ritvik Kumer,Hindupur,Telangana,Product_35,Electronics,2,4175.04,8350.08,Net Banking,Delivered,2026-02-02
+854,Inaaya  Kota,Dharmavaram,Kerala,Product_22,Home,3,1714.97,5144.91,Net Banking,Cancelled,2026-04-05
+855,Elakshi Bedi,Thrissur,Punjab,Product_81,Fashion,5,4713.86,23569.3,Net Banking,Cancelled,2026-04-09
+856,Shayak Bassi,Bathinda,West Bengal,Product_97,Electronics,5,2626.89,13134.45,Net Banking,Shipped,2025-09-29
+857,Sahil Krishnamurthy,Narasaraopet,Mizoram,Product_88,Home,2,1149.14,2298.28,Credit Card,Shipped,2026-02-28
+858,Shayak Walla,Pallavaram,West Bengal,Product_47,Home,1,1431.22,1431.22,Cash,Delivered,2025-06-16
+859,Fateh Keer,Jehanabad,Manipur,Product_56,Electronics,3,682.89,2048.67,Net Banking,Pending,2025-11-30
+860,Tara Dugal,Rohtak,Punjab,Product_56,Fashion,5,1452.23,7261.15,Cash,Cancelled,2025-12-25
+861,Alia Chokshi,Uluberia,Jharkhand,Product_52,Sports,3,3755.77,11267.31,Cash,Shipped,2025-11-09
+862,Nishith Saxena,Dehradun,Madhya Pradesh,Product_2,Fashion,4,3018.58,12074.32,Net Banking,Pending,2025-09-16
+863,Yakshit Sridhar,Ramgarh,Odisha,Product_3,Fashion,5,3383.67,16918.35,Credit Card,Cancelled,2026-03-21
+864,Kismat Dyal,Durgapur,Karnataka,Product_14,Sports,3,1191.98,3575.94,Net Banking,Pending,2025-11-21
+865,Kabir Sodhi,Cuttack,Gujarat,Product_15,Books,2,4499.47,8998.94,Net Banking,Delivered,2025-07-06
+866,Nirvi Goswami,Surat,Punjab,Product_23,Fashion,4,2454.8,9819.2,UPI,Cancelled,2026-01-27
+867,Heer Lad,Kalyan-Dombivli,Gujarat,Product_76,Home,5,1208.56,6042.8,Cash,Pending,2026-03-01
+868,Veer Ratta,Surendranagar Dudhrej,Rajasthan,Product_69,Fashion,2,1502.98,3005.96,UPI,Delivered,2025-09-19
+869,Purab Lal,Bhilwara,Haryana,Product_25,Sports,4,2359.67,9438.68,UPI,Delivered,2026-05-17
+870,Rati Sarin,Loni,Chhattisgarh,Product_24,Electronics,3,4240.77,12722.31,UPI,Pending,2025-11-03
+871,Aradhya Bala,Gandhinagar,Manipur,Product_69,Books,5,894.08,4470.4,Credit Card,Shipped,2025-10-27
+872,Ryan Sheth,Thiruvananthapuram,Chhattisgarh,Product_66,Electronics,1,160.24,160.24,UPI,Pending,2025-06-02
+873,Vedika Salvi,Madurai,Goa,Product_94,Electronics,5,4664.27,23321.35,Net Banking,Delivered,2025-11-29
+874,Renee Swaminathan,Mahbubnagar,West Bengal,Product_34,Fashion,3,283.47,850.41,Cash,Cancelled,2025-12-01
+875,Madhav Lala,Chinsurah,Mizoram,Product_62,Books,1,3504.82,3504.82,UPI,Delivered,2025-08-11
+876,Kabir Goda,Bihar Sharif,Maharashtra,Product_80,Fashion,4,1888.07,7552.28,UPI,Pending,2025-12-10
+877,Dhanuk Wali,Thiruvananthapuram,Andhra Pradesh,Product_32,Electronics,3,959.96,2879.88,Credit Card,Delivered,2026-02-21
+878,Jivika Varghese,Thanjavur,Assam,Product_22,Electronics,1,2567.63,2567.63,Net Banking,Cancelled,2025-07-28
+879,Anahi Solanki,Sasaram,Madhya Pradesh,Product_89,Sports,4,2920.55,11682.2,Net Banking,Cancelled,2025-11-18
+880,Kashvi Sahota,Kota,Arunachal Pradesh,Product_36,Fashion,1,3918.3,3918.3,Net Banking,Delivered,2025-10-09
+881,Mohanlal Issac,Dehradun,Goa,Product_43,Sports,5,4089.29,20446.45,Cash,Cancelled,2025-08-05
+882,Drishya Bhakta,Ramagundam,Himachal Pradesh,Product_75,Sports,1,3065.46,3065.46,Cash,Pending,2026-05-13
+883,Tarini Sridhar,Moradabad,Tamil Nadu,Product_95,Home,3,3198.86,9596.58,Net Banking,Pending,2026-04-18
+884,Mamooty Bhardwaj,Indore,Bihar,Product_77,Fashion,2,3634.05,7268.1,Credit Card,Cancelled,2025-11-30
+885,Emir Salvi,Rajkot,Tamil Nadu,Product_25,Sports,4,2014.58,8058.32,Cash,Delivered,2025-10-08
+886,Piya Joshi,Gwalior,Tamil Nadu,Product_76,Home,1,4912.63,4912.63,UPI,Shipped,2026-02-07
+887,Shayak Ranganathan,Mira-Bhayandar,Goa,Product_38,Sports,4,2310.77,9243.08,Net Banking,Pending,2025-11-07
+888,Navya Sarraf,Navi Mumbai,Maharashtra,Product_26,Fashion,4,2713.35,10853.4,Credit Card,Delivered,2026-04-23
+889,Vihaan Bahl,Alwar,Haryana,Product_88,Electronics,4,1279.91,5119.64,Cash,Shipped,2025-10-26
+890,Tanya Bhalla,Mirzapur,Tamil Nadu,Product_5,Fashion,2,4367.95,8735.9,Cash,Delivered,2026-04-13
+891,Baiju Khanna,Erode,Rajasthan,Product_93,Electronics,5,1867.95,9339.75,Net Banking,Pending,2026-02-24
+892,Arnav Deshmukh,Imphal,Rajasthan,Product_18,Books,2,1874.52,3749.04,Credit Card,Cancelled,2026-05-13
+893,Zaina Behl,Ramagundam,Gujarat,Product_73,Home,4,122.04,488.16,Cash,Delivered,2025-08-06
+894,Tiya Khurana,Kamarhati,Arunachal Pradesh,Product_37,Home,3,3392.64,10177.92,Cash,Delivered,2026-02-22
+895,Anika Vyas,Ambattur,Haryana,Product_68,Sports,5,1461.62,7308.1,Cash,Pending,2025-09-16
+896,Hazel Aurora,Katihar,Kerala,Product_97,Sports,5,838.37,4191.85,Net Banking,Cancelled,2025-12-04
+897,Bhavin Kadakia,Erode,Karnataka,Product_94,Electronics,3,4243.76,12731.28,Cash,Delivered,2026-04-13
+898,Jiya Banerjee,Gorakhpur,Maharashtra,Product_25,Electronics,1,4561.4,4561.4,UPI,Shipped,2025-09-02
+899,Yuvaan Dar,Phagwara,Maharashtra,Product_27,Electronics,5,4408.2,22041.0,Credit Card,Cancelled,2025-12-18
+900,Riya Lala,Noida,Chhattisgarh,Product_31,Sports,2,402.83,805.66,UPI,Delivered,2026-01-10
+901,Darshit Kota,Raurkela Industrial Township,Tripura,Product_65,Fashion,4,4187.43,16749.72,Net Banking,Shipped,2026-04-17
+902,Zain Mander,Shahjahanpur,Meghalaya,Product_31,Books,3,3938.59,11815.77,Credit Card,Cancelled,2026-04-09
+903,Zeeshan Varma,Chittoor,Uttarakhand,Product_31,Books,4,2450.43,9801.72,Cash,Shipped,2025-09-27
+904,Rati Hora,Nellore,Andhra Pradesh,Product_27,Home,1,229.76,229.76,Credit Card,Shipped,2025-07-02
+905,Sara Khurana,Sagar,Madhya Pradesh,Product_61,Home,4,2884.69,11538.76,Cash,Pending,2025-12-06
+906,Mishti Brahmbhatt,Varanasi,Manipur,Product_77,Electronics,4,4515.89,18063.56,Cash,Delivered,2026-03-24
+907,Kiara Gokhale,Bhubaneswar,Mizoram,Product_5,Fashion,4,1920.15,7680.6,UPI,Delivered,2026-04-19
+908,Kashvi Sundaram,Jammu,Sikkim,Product_51,Fashion,1,4936.0,4936.0,Net Banking,Cancelled,2026-01-05
+909,Kiaan Bhandari,Rourkela,Himachal Pradesh,Product_23,Books,5,971.21,4856.05,Net Banking,Shipped,2026-03-22
+910,Mishti Batta,Purnia,Chhattisgarh,Product_71,Books,5,735.72,3678.6,Credit Card,Cancelled,2026-04-15
+911,Zara Behl,Bongaigaon,Uttar Pradesh,Product_32,Fashion,3,3300.09,9900.27,Cash,Cancelled,2025-08-21
+912,Oorja Gade,Bardhaman,Bihar,Product_98,Fashion,2,3132.34,6264.68,Credit Card,Delivered,2025-06-27
+913,Badal Srinivasan,Jalna,Kerala,Product_69,Home,1,3863.71,3863.71,Credit Card,Delivered,2025-06-19
+914,Zeeshan Kale,Saharsa,Chhattisgarh,Product_63,Electronics,4,3193.24,12772.96,Cash,Cancelled,2026-04-23
+915,Dharmajan Shroff,Bettiah,Himachal Pradesh,Product_80,Sports,3,1187.77,3563.31,UPI,Pending,2026-03-24
+916,Samar Khatri,Karnal,Chhattisgarh,Product_16,Fashion,2,4923.34,9846.68,Credit Card,Shipped,2026-02-03
+917,Nirvi Agrawal,Secunderabad,Maharashtra,Product_54,Home,5,1982.99,9914.95,Credit Card,Delivered,2025-08-01
+918,Neysa Bandi,Saharsa,Manipur,Product_89,Books,4,3218.6,12874.4,Credit Card,Shipped,2025-09-26
+919,Kismat Choudhury,Kozhikode,Meghalaya,Product_39,Books,5,4322.36,21611.8,Net Banking,Delivered,2026-04-08
+920,Ojas Jhaveri,Gandhidham,Karnataka,Product_81,Home,4,1402.97,5611.88,Cash,Delivered,2025-07-07
+921,Tarini Mann,Purnia,Uttarakhand,Product_24,Home,3,2331.36,6994.08,UPI,Delivered,2026-02-28
+922,Priyansh Majumdar,Imphal,Chhattisgarh,Product_7,Sports,4,1439.92,5759.68,Cash,Shipped,2025-06-13
+923,Indrans Chatterjee,Gopalpur,Rajasthan,Product_3,Sports,3,2078.92,6236.76,Net Banking,Delivered,2026-01-22
+924,Kartik Sathe,Gopalpur,Himachal Pradesh,Product_92,Home,1,581.84,581.84,Cash,Cancelled,2025-09-15
+925,Nirvaan Khanna,Motihari,Himachal Pradesh,Product_58,Electronics,2,4230.23,8460.46,Credit Card,Cancelled,2025-08-02
+926,Mannat Thaman,Jalgaon,Punjab,Product_71,Electronics,4,3204.49,12817.96,UPI,Shipped,2026-03-19
+927,Nayantara Sandhu,Karimnagar,Uttar Pradesh,Product_48,Fashion,2,2284.41,4568.82,Cash,Shipped,2026-01-03
+928,Bhavin Handa,Kamarhati,Gujarat,Product_34,Home,5,4947.21,24736.05,Cash,Shipped,2025-06-28
+929,Vihaan Bandi,Mango,Punjab,Product_95,Home,3,514.59,1543.77,Credit Card,Cancelled,2025-05-31
+930,Jhanvi Kamdar,Nagaon,Karnataka,Product_24,Books,3,4505.6,13516.8,Cash,Delivered,2025-05-19
+931,Zain Loke,Motihari,Uttar Pradesh,Product_16,Books,3,2920.41,8761.23,Credit Card,Cancelled,2026-02-09
+932,Samar Sodhi,Akola,Madhya Pradesh,Product_18,Books,1,4195.1,4195.1,Credit Card,Cancelled,2026-03-27
+933,Advika Dora,Shimla,Maharashtra,Product_72,Electronics,4,3142.3,12569.2,Net Banking,Delivered,2026-02-05
+934,Mahika Shan,Jalandhar,Uttarakhand,Product_27,Fashion,2,671.97,1343.94,Net Banking,Shipped,2026-01-28
+935,Anay Halder,Amravati,Chhattisgarh,Product_50,Home,5,1666.99,8334.95,Credit Card,Shipped,2026-05-04
+936,Anay Bir,Rajahmundry,Sikkim,Product_16,Books,1,3873.47,3873.47,Cash,Cancelled,2025-08-21
+937,Mamooty Tripathi,Chapra,Arunachal Pradesh,Product_16,Sports,1,3405.07,3405.07,Credit Card,Delivered,2025-08-17
+938,Tushar Mangal,Saharanpur,Haryana,Product_62,Books,3,1598.65,4795.95,Cash,Pending,2025-12-07
+939,Zara Bahl,Ozhukarai,Meghalaya,Product_2,Books,2,1854.5,3709.0,Cash,Pending,2026-04-25
+940,Madhav Boase,Ambattur,Himachal Pradesh,Product_92,Home,3,1756.12,5268.36,Cash,Shipped,2026-05-07
+941,Vivaan Basak,Howrah,Gujarat,Product_49,Sports,1,4130.75,4130.75,Credit Card,Cancelled,2025-05-30
+942,Saira Dave,Korba,Madhya Pradesh,Product_60,Fashion,5,945.28,4726.4,Net Banking,Pending,2025-09-26
+943,Zoya Dasgupta,Nashik,Madhya Pradesh,Product_90,Home,1,3658.12,3658.12,UPI,Pending,2025-09-12
+944,Ehsaan Ahuja,Cuttack,Arunachal Pradesh,Product_67,Home,5,634.23,3171.15,Cash,Shipped,2025-08-15
+945,Divit Mangat,Dharmavaram,Jharkhand,Product_18,Fashion,4,4802.16,19208.64,UPI,Cancelled,2026-04-10
+946,Urvi Kapadia,Hyderabad,Manipur,Product_71,Home,4,3868.5,15474.0,UPI,Pending,2025-10-13
+947,Siya Yogi,Hubli–Dharwad,Nagaland,Product_23,Books,5,4486.8,22434.0,Net Banking,Delivered,2025-08-22
+948,Ahana  Rama,Kochi,Manipur,Product_31,Books,4,607.72,2430.88,Net Banking,Delivered,2025-12-23
+949,Indrajit Ghose,Thoothukudi,Sikkim,Product_47,Sports,2,3851.76,7703.52,Net Banking,Shipped,2025-11-04
+950,Mahika Bose,Bihar Sharif,Goa,Product_92,Sports,3,331.51,994.53,Net Banking,Cancelled,2025-06-19
+951,Bhavin Chandran,Karawal Nagar,Rajasthan,Product_57,Fashion,2,1472.14,2944.28,Net Banking,Shipped,2026-02-03
+952,Hunar Dhaliwal,Siwan,Haryana,Product_70,Electronics,2,3610.94,7221.88,Credit Card,Pending,2025-05-30
+953,Vihaan Shetty,Bhagalpur,Haryana,Product_52,Books,3,4142.93,12428.79,Credit Card,Delivered,2025-11-18
+954,Vedika Jain,Jalandhar,Himachal Pradesh,Product_87,Books,5,3420.58,17102.9,Net Banking,Cancelled,2025-09-08
+955,Heer Sastry,Tenali,Mizoram,Product_59,Books,1,2157.2,2157.2,UPI,Delivered,2026-04-21
+956,Ira Varty,Thrissur,Mizoram,Product_68,Electronics,1,2204.43,2204.43,Net Banking,Delivered,2026-01-03
+957,Aarna Saini,Pimpri-Chinchwad,Karnataka,Product_68,Books,3,3768.62,11305.86,Cash,Delivered,2025-11-12
+958,Kavya Bhakta,Agra,Tripura,Product_49,Electronics,4,3623.35,14493.4,UPI,Shipped,2025-12-23
+959,Anahita Chauhan,Karawal Nagar,Punjab,Product_11,Books,3,3344.21,10032.63,Credit Card,Pending,2025-12-06
+960,Shayak Subramaniam,New Delhi,Jharkhand,Product_5,Books,2,3897.5,7795.0,UPI,Delivered,2025-05-28
+961,Anay Dutta,Patna,Goa,Product_20,Home,2,507.35,1014.7,Net Banking,Shipped,2025-07-05
+962,Shayak Aurora,Ghaziabad,Tripura,Product_77,Home,5,1320.09,6600.45,Cash,Delivered,2026-02-20
+963,Sahil Behl,Darbhanga,Bihar,Product_3,Books,3,4651.16,13953.48,Credit Card,Delivered,2025-10-06
+964,Riaan Mani,Bhopal,Kerala,Product_28,Home,3,4806.42,14419.26,Net Banking,Cancelled,2025-08-22
+965,Rasha Bhatti,Avadi,Himachal Pradesh,Product_78,Fashion,2,2321.45,4642.9,Cash,Cancelled,2026-04-15
+966,Indrans Varma,Tinsukia,West Bengal,Product_36,Electronics,5,921.02,4605.1,Cash,Delivered,2026-04-25
+967,Tara Bandi,Moradabad,Telangana,Product_76,Electronics,1,4597.21,4597.21,Net Banking,Cancelled,2026-03-27
+968,Abram Hayre,Udaipur,Goa,Product_46,Home,4,4955.07,19820.28,Cash,Delivered,2025-10-16
+969,Stuvan Sankar,Bangalore,Andhra Pradesh,Product_2,Sports,1,2378.11,2378.11,Cash,Cancelled,2026-01-27
+970,Fateh Gopal,Bidhannagar,Tamil Nadu,Product_9,Sports,4,1949.71,7798.84,Cash,Cancelled,2026-01-23
+971,Purab Sarin,Nellore,Jharkhand,Product_32,Sports,4,916.45,3665.8,Cash,Shipped,2026-02-11
+972,Kanav Din,Indore,Rajasthan,Product_81,Fashion,5,2773.65,13868.25,Cash,Pending,2025-07-17
+973,Saksham Gupta,Katni,Mizoram,Product_88,Books,4,767.52,3070.08,Net Banking,Shipped,2026-03-23
+974,Ritvik Sethi,Patna,Meghalaya,Product_71,Fashion,3,253.24,759.72,Cash,Delivered,2025-10-27
+975,Lakshit Rama,Bellary,Haryana,Product_74,Home,2,4417.98,8835.96,Net Banking,Delivered,2026-02-16
+976,Manjari Bali,Bhiwandi,Andhra Pradesh,Product_99,Fashion,2,871.13,1742.26,Net Banking,Pending,2026-04-16
+977,Ranbir Maharaj,Hospet,Meghalaya,Product_16,Books,5,2152.21,10761.05,Cash,Shipped,2025-08-03
+978,Shayak Acharya,Lucknow,Sikkim,Product_6,Home,2,1522.5,3045.0,Net Banking,Cancelled,2025-10-19
+979,Veer Srinivasan,Tenali,Mizoram,Product_29,Fashion,3,3316.27,9948.81,Net Banking,Shipped,2025-05-23
+980,Armaan Garg,Thiruvananthapuram,Manipur,Product_28,Home,4,4047.29,16189.16,Credit Card,Delivered,2025-10-15
+981,Mahika Batra,Bardhaman,Arunachal Pradesh,Product_100,Sports,3,4420.05,13260.15,Net Banking,Pending,2025-09-17
+982,Nayantara Krish,Bhind,Uttar Pradesh,Product_72,Sports,3,3896.95,11690.85,UPI,Shipped,2026-04-28
+983,Divij Chadha,Lucknow,Odisha,Product_79,Sports,2,976.24,1952.48,Cash,Shipped,2025-07-04
+984,Himmat Shroff,Vijayawada,Kerala,Product_25,Home,3,180.54,541.62,UPI,Pending,2025-09-03
+985,Vihaan Sachar,Kanpur,Odisha,Product_36,Fashion,5,783.9,3919.5,Credit Card,Delivered,2026-03-08
+986,Inaaya  Mallick,Bhagalpur,Assam,Product_67,Sports,3,4662.52,13987.56,UPI,Cancelled,2025-09-24
+987,Jivika Gandhi,Jammu,Odisha,Product_66,Home,4,3709.31,14837.24,Net Banking,Delivered,2026-01-25
+988,Nitara Hayer,Agartala,Himachal Pradesh,Product_24,Books,5,4393.51,21967.55,Credit Card,Shipped,2026-05-05
+989,Vivaan Bhatt,Kirari Suleman Nagar,Arunachal Pradesh,Product_16,Sports,2,601.83,1203.66,UPI,Delivered,2025-10-12
+990,Mannat Biswas,Begusarai,Rajasthan,Product_66,Sports,4,4012.8,16051.2,UPI,Delivered,2026-04-15
+991,Siya Kurian,Fatehpur,Himachal Pradesh,Product_44,Books,5,2221.78,11108.9,Cash,Cancelled,2026-05-07
+992,Nitya Karan,Bilaspur,Haryana,Product_46,Home,1,2318.88,2318.88,Credit Card,Pending,2025-09-19
+993,Prerak Ranganathan,Aizawl,Telangana,Product_31,Books,1,1445.08,1445.08,UPI,Cancelled,2025-11-10
+994,Reyansh Khare,Asansol,Andhra Pradesh,Product_71,Fashion,3,4005.65,12016.95,Net Banking,Pending,2025-09-11
+995,Hrishita Dua,New Delhi,Arunachal Pradesh,Product_75,Electronics,2,1456.11,2912.22,Cash,Shipped,2026-03-26
+996,Hunar Golla,Sikar,West Bengal,Product_39,Fashion,2,2716.99,5433.98,Cash,Delivered,2026-01-04
+997,Anika Devi,Sultan Pur Majra,Mizoram,Product_84,Home,3,4116.04,12348.12,UPI,Pending,2025-08-07
+998,Shaan Yogi,Nellore,Telangana,Product_82,Electronics,2,1366.05,2732.1,Net Banking,Pending,2025-07-06
+999,Ayesha Goda,Aurangabad,Sikkim,Product_29,Sports,2,619.69,1239.38,Cash,Cancelled,2026-05-19
+1000,Dhanush Zacharia,Madurai,Uttarakhand,Product_91,Fashion,4,2470.05,9880.2,Net Banking,Shipped,2025-08-16
